@@ -12,11 +12,11 @@ const config = {
   url: 'https://javeri-a.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<org-name>/<repo-name>/'
-  baseUrl: '/physical-ai-humanoid-textbook/',
+  baseUrl: '/robotics-book/',
 
   // GitHub pages deployment config.
   organizationName: 'javeri-a', // Usually your GitHub org/user name.
-  projectName: 'physical-ai-humanoid-textbook', // Usually your repo name.
+  projectName: 'robotics-book', // Usually your repo name.
 
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
@@ -40,7 +40,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/javeri-a/hackathon-textbook/edit/main/',
+            'https://github.com/javeri-a/robotics-book/edit/main/',
         },
         blog: false, // Disable blog if not needed
         theme: {
@@ -96,7 +96,7 @@ const config = {
             ],
           },
           {
-            href: 'https://github.com/javeri-a/hackathon-textbook',
+            href: 'https://github.com/javeri-a/robotics-book',
             label: 'GitHub',
             position: 'right',
           },
