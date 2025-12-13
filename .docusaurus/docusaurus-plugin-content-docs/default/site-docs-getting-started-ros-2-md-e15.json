@@ -1,0 +1,27 @@
+{
+  "id": "getting-started/ros2",
+  "title": "ROS 2 Basics",
+  "description": "This section covers the essential ROS 2 concepts you'll need for the textbook modules.",
+  "source": "@site/docs/getting-started/ros2.md",
+  "sourceDirName": "getting-started",
+  "slug": "/getting-started/ros2",
+  "permalink": "/physical-ai-humanoid-textbook/docs/getting-started/ros2",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/javeri-a/physical-ai-humanoid-textbook/edit/main/docs/getting-started/ros2.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Getting Started",
+    "permalink": "/physical-ai-humanoid-textbook/docs/getting-started/"
+  },
+  "next": {
+    "title": "Simulation Setup",
+    "permalink": "/physical-ai-humanoid-textbook/docs/getting-started/simulation"
+  }
+}

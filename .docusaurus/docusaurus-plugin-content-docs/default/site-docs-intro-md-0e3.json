@@ -1,0 +1,27 @@
+{
+  "id": "intro",
+  "title": "Introduction",
+  "description": "Welcome to the Physical AI and Humanoid Robotics Textbook. This comprehensive resource connects digital AI algorithms with real robotic systems, providing both theoretical knowledge and practical implementation strategies.",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/intro",
+  "permalink": "/physical-ai-humanoid-textbook/docs/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/javeri-a/physical-ai-humanoid-textbook/edit/main/docs/intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Simulation Setup",
+    "permalink": "/physical-ai-humanoid-textbook/docs/getting-started/simulation"
+  },
+  "next": {
+    "title": "Module 1 Introduction",
+    "permalink": "/physical-ai-humanoid-textbook/docs/modules/module1-ros2/intro"
+  }
+}

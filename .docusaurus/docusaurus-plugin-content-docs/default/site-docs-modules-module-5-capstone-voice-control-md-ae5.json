@@ -1,0 +1,29 @@
+{
+  "id": "modules/module5-capstone/voice-control",
+  "title": "Voice Control Implementation",
+  "description": "Voice Control Architecture",
+  "source": "@site/docs/modules/module5-capstone/voice-control.md",
+  "sourceDirName": "modules/module5-capstone",
+  "slug": "/modules/module5-capstone/voice-control",
+  "permalink": "/physical-ai-humanoid-textbook/docs/modules/module5-capstone/voice-control",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/javeri-a/physical-ai-humanoid-textbook/edit/main/docs/modules/module5-capstone/voice-control.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "id": "voice-control",
+    "title": "Voice Control Implementation",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Humanoid Robot Setup",
+    "permalink": "/physical-ai-humanoid-textbook/docs/modules/module5-capstone/humanoid-setup"
+  },
+  "next": {
+    "title": "Full System Integration",
+    "permalink": "/physical-ai-humanoid-textbook/docs/modules/module5-capstone/full-integration"
+  }
+}

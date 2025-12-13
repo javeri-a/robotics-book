@@ -1,0 +1,29 @@
+{
+  "id": "modules/module4-vla/vision",
+  "title": "Vision Components",
+  "description": "Introduction to Vision in Robotics",
+  "source": "@site/docs/modules/module4-vla/vision.md",
+  "sourceDirName": "modules/module4-vla",
+  "slug": "/modules/module4-vla/vision",
+  "permalink": "/physical-ai-humanoid-textbook/docs/modules/module4-vla/vision",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/javeri-a/physical-ai-humanoid-textbook/edit/main/docs/modules/module4-vla/vision.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "vision",
+    "title": "Vision Components",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Module 4 Introduction",
+    "permalink": "/physical-ai-humanoid-textbook/docs/modules/module4-vla/intro"
+  },
+  "next": {
+    "title": "Language Understanding",
+    "permalink": "/physical-ai-humanoid-textbook/docs/modules/module4-vla/language"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "modules/module3-nvidia-isaac/perception",
+  "title": "Perception Systems",
+  "description": "Introduction to Isaac Perception",
+  "source": "@site/docs/modules/module3-nvidia-isaac/perception.md",
+  "sourceDirName": "modules/module3-nvidia-isaac",
+  "slug": "/modules/module3-nvidia-isaac/perception",
+  "permalink": "/physical-ai-humanoid-textbook/docs/modules/module3-nvidia-isaac/perception",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/javeri-a/physical-ai-humanoid-textbook/edit/main/docs/modules/module3-nvidia-isaac/perception.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "perception",
+    "title": "Perception Systems",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Module 3 Introduction",
+    "permalink": "/physical-ai-humanoid-textbook/docs/modules/module3-nvidia-isaac/intro"
+  },
+  "next": {
+    "title": "Training and Deployment",
+    "permalink": "/physical-ai-humanoid-textbook/docs/modules/module3-nvidia-isaac/training"
+  }
+}

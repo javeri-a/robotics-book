@@ -1,0 +1,29 @@
+{
+  "id": "modules/module4-vla/action",
+  "title": "Action Execution",
+  "description": "From Language to Action",
+  "source": "@site/docs/modules/module4-vla/action.md",
+  "sourceDirName": "modules/module4-vla",
+  "slug": "/modules/module4-vla/action",
+  "permalink": "/physical-ai-humanoid-textbook/docs/modules/module4-vla/action",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/javeri-a/physical-ai-humanoid-textbook/edit/main/docs/modules/module4-vla/action.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "id": "action",
+    "title": "Action Execution",
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Language Understanding",
+    "permalink": "/physical-ai-humanoid-textbook/docs/modules/module4-vla/language"
+  },
+  "next": {
+    "title": "Exercises",
+    "permalink": "/physical-ai-humanoid-textbook/docs/modules/module4-vla/exercises"
+  }
+}

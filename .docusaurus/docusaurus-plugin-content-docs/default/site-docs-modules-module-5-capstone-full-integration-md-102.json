@@ -1,0 +1,29 @@
+{
+  "id": "modules/module5-capstone/full-integration",
+  "title": "Full System Integration",
+  "description": "Integration Architecture",
+  "source": "@site/docs/modules/module5-capstone/full-integration.md",
+  "sourceDirName": "modules/module5-capstone",
+  "slug": "/modules/module5-capstone/full-integration",
+  "permalink": "/physical-ai-humanoid-textbook/docs/modules/module5-capstone/full-integration",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/javeri-a/physical-ai-humanoid-textbook/edit/main/docs/modules/module5-capstone/full-integration.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "id": "full-integration",
+    "title": "Full System Integration",
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Voice Control Implementation",
+    "permalink": "/physical-ai-humanoid-textbook/docs/modules/module5-capstone/voice-control"
+  },
+  "next": {
+    "title": "Exercises",
+    "permalink": "/physical-ai-humanoid-textbook/docs/modules/module5-capstone/exercises"
+  }
+}

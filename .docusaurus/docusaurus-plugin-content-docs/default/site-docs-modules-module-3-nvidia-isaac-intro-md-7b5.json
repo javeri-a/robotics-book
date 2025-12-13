@@ -1,0 +1,29 @@
+{
+  "id": "modules/module3-nvidia-isaac/intro",
+  "title": "Module 3 Introduction",
+  "description": "Overview",
+  "source": "@site/docs/modules/module3-nvidia-isaac/intro.md",
+  "sourceDirName": "modules/module3-nvidia-isaac",
+  "slug": "/modules/module3-nvidia-isaac/intro",
+  "permalink": "/physical-ai-humanoid-textbook/docs/modules/module3-nvidia-isaac/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/javeri-a/physical-ai-humanoid-textbook/edit/main/docs/modules/module3-nvidia-isaac/intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "intro",
+    "title": "Module 3 Introduction",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Exercises",
+    "permalink": "/physical-ai-humanoid-textbook/docs/modules/module2-simulation/exercises"
+  },
+  "next": {
+    "title": "Perception Systems",
+    "permalink": "/physical-ai-humanoid-textbook/docs/modules/module3-nvidia-isaac/perception"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "modules/module2-simulation/intro",
+  "title": "Module 2 Introduction",
+  "description": "Overview",
+  "source": "@site/docs/modules/module2-simulation/intro.md",
+  "sourceDirName": "modules/module2-simulation",
+  "slug": "/modules/module2-simulation/intro",
+  "permalink": "/physical-ai-humanoid-textbook/docs/modules/module2-simulation/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/javeri-a/physical-ai-humanoid-textbook/edit/main/docs/modules/module2-simulation/intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "intro",
+    "title": "Module 2 Introduction",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Exercises",
+    "permalink": "/physical-ai-humanoid-textbook/docs/modules/module1-ros2/exercises"
+  },
+  "next": {
+    "title": "Gazebo Simulation",
+    "permalink": "/physical-ai-humanoid-textbook/docs/modules/module2-simulation/gazebo"
+  }
+}

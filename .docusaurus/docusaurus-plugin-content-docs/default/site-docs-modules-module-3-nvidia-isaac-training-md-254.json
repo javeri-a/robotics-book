@@ -1,0 +1,29 @@
+{
+  "id": "modules/module3-nvidia-isaac/training",
+  "title": "Training and Deployment",
+  "description": "Isaac's Training Framework",
+  "source": "@site/docs/modules/module3-nvidia-isaac/training.md",
+  "sourceDirName": "modules/module3-nvidia-isaac",
+  "slug": "/modules/module3-nvidia-isaac/training",
+  "permalink": "/physical-ai-humanoid-textbook/docs/modules/module3-nvidia-isaac/training",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/javeri-a/physical-ai-humanoid-textbook/edit/main/docs/modules/module3-nvidia-isaac/training.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "id": "training",
+    "title": "Training and Deployment",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Perception Systems",
+    "permalink": "/physical-ai-humanoid-textbook/docs/modules/module3-nvidia-isaac/perception"
+  },
+  "next": {
+    "title": "Exercises",
+    "permalink": "/physical-ai-humanoid-textbook/docs/modules/module3-nvidia-isaac/exercises"
+  }
+}

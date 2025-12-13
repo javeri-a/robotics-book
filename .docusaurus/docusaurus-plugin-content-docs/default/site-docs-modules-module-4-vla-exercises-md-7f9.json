@@ -1,0 +1,29 @@
+{
+  "id": "modules/module4-vla/exercises",
+  "title": "Exercises",
+  "description": "Exercise 1: Vision-Language System",
+  "source": "@site/docs/modules/module4-vla/exercises.md",
+  "sourceDirName": "modules/module4-vla",
+  "slug": "/modules/module4-vla/exercises",
+  "permalink": "/physical-ai-humanoid-textbook/docs/modules/module4-vla/exercises",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/javeri-a/physical-ai-humanoid-textbook/edit/main/docs/modules/module4-vla/exercises.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "id": "exercises",
+    "title": "Exercises",
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Action Execution",
+    "permalink": "/physical-ai-humanoid-textbook/docs/modules/module4-vla/action"
+  },
+  "next": {
+    "title": "Module 5 Introduction",
+    "permalink": "/physical-ai-humanoid-textbook/docs/modules/module5-capstone/intro"
+  }
+}

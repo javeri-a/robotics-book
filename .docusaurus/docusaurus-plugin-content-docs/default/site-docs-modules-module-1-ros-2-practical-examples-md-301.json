@@ -1,0 +1,29 @@
+{
+  "id": "modules/module1-ros2/practical-examples",
+  "title": "Practical Examples",
+  "description": "Publisher Example",
+  "source": "@site/docs/modules/module1-ros2/practical-examples.md",
+  "sourceDirName": "modules/module1-ros2",
+  "slug": "/modules/module1-ros2/practical-examples",
+  "permalink": "/physical-ai-humanoid-textbook/docs/modules/module1-ros2/practical-examples",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/javeri-a/physical-ai-humanoid-textbook/edit/main/docs/modules/module1-ros2/practical-examples.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "id": "practical-examples",
+    "title": "Practical Examples",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Core ROS 2 Concepts",
+    "permalink": "/physical-ai-humanoid-textbook/docs/modules/module1-ros2/concepts"
+  },
+  "next": {
+    "title": "Exercises",
+    "permalink": "/physical-ai-humanoid-textbook/docs/modules/module1-ros2/exercises"
+  }
+}

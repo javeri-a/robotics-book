@@ -1,0 +1,29 @@
+{
+  "id": "modules/module5-capstone/exercises",
+  "title": "Exercises",
+  "description": "Exercise 1: Basic Voice Command",
+  "source": "@site/docs/modules/module5-capstone/exercises.md",
+  "sourceDirName": "modules/module5-capstone",
+  "slug": "/modules/module5-capstone/exercises",
+  "permalink": "/physical-ai-humanoid-textbook/docs/modules/module5-capstone/exercises",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/javeri-a/physical-ai-humanoid-textbook/edit/main/docs/modules/module5-capstone/exercises.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "id": "exercises",
+    "title": "Exercises",
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Full System Integration",
+    "permalink": "/physical-ai-humanoid-textbook/docs/modules/module5-capstone/full-integration"
+  },
+  "next": {
+    "title": "Citations and References",
+    "permalink": "/physical-ai-humanoid-textbook/docs/reference/citations"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "reference/citations",
+  "title": "Citations and References",
+  "description": "This section contains the comprehensive list of sources cited throughout the textbook, formatted according to APA style.",
+  "source": "@site/docs/reference/citations.md",
+  "sourceDirName": "reference",
+  "slug": "/reference/citations",
+  "permalink": "/physical-ai-humanoid-textbook/docs/reference/citations",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/javeri-a/physical-ai-humanoid-textbook/edit/main/docs/reference/citations.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "citations",
+    "title": "Citations and References"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Exercises",
+    "permalink": "/physical-ai-humanoid-textbook/docs/modules/module5-capstone/exercises"
+  },
+  "next": {
+    "title": "Glossary",
+    "permalink": "/physical-ai-humanoid-textbook/docs/reference/glossary"
+  }
+}

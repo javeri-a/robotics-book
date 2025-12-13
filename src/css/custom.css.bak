@@ -1,0 +1,65 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed
+ * specifically for content-centric websites.
+ */
+
+/* You can override the classic template styling here. */
+:root {
+  --ifm-color-primary: #4c78a8;
+  --ifm-color-primary-dark: #2c5a8a;
+  --ifm-color-primary-darker: #2a5582;
+  --ifm-color-primary-darkest: #22466b;
+  --ifm-color-primary-light: #5d89b8;
+  --ifm-color-primary-lighter: #6591bc;
+  --ifm-color-primary-lightest: #7ba8cc;
+  --ifm-code-font-size: 95%;
+}
+
+.docusaurus-highlight-code-line {
+  background-color: rgba(0, 0, 0, 0.1);
+  display: block;
+  margin: 0 calc(-1 * var(--ifm-pre-padding));
+  padding: 0 var(--ifm-pre-padding);
+}
+
+html[data-theme='dark'] .docusaurus-highlight-code-line {
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+/* Custom styling for citations */
+.citationBlock {
+  margin: 1rem 0;
+  padding: 0.5rem 0;
+  border-left: 3px solid #4c78a8;
+  background-color: #f9f9f9;
+  font-size: 0.9rem;
+}
+
+html[data-theme='dark'] .citationBlock {
+  background-color: #2a2a2a;
+}
+
+.citation {
+  margin: 0;
+  padding: 0.5rem 1rem;
+}
+
+/* Custom styling for key terms */
+.key-term {
+  font-weight: bold;
+  color: #4c78a8;
+}
+
+/* Custom styling for example boxes */
+.example-box {
+  border: 1px solid var(--ifm-color-primary-light);
+  border-radius: 4px;
+  padding: 1rem;
+  margin: 1rem 0;
+  background-color: #f8f9fa;
+}
+
+html[data-theme='dark'] .example-box {
+  background-color: #1e1e1e;
+}

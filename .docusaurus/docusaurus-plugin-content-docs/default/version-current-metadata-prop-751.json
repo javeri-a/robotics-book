@@ -1,0 +1,449 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "category",
+        "label": "Getting Started",
+        "items": [
+          {
+            "type": "link",
+            "label": "Getting Started",
+            "href": "/physical-ai-humanoid-textbook/docs/getting-started/",
+            "docId": "getting-started/index",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "ROS 2 Basics",
+            "href": "/physical-ai-humanoid-textbook/docs/getting-started/ros2",
+            "docId": "getting-started/ros2",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Simulation Setup",
+            "href": "/physical-ai-humanoid-textbook/docs/getting-started/simulation",
+            "docId": "getting-started/simulation",
+            "unlisted": false
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "link",
+        "label": "Introduction",
+        "href": "/physical-ai-humanoid-textbook/docs/intro",
+        "docId": "intro",
+        "unlisted": false
+      },
+      {
+        "type": "category",
+        "label": "Module 1: Robotic Nervous System (ROS 2)",
+        "items": [
+          {
+            "type": "link",
+            "label": "Module 1 Introduction",
+            "href": "/physical-ai-humanoid-textbook/docs/modules/module1-ros2/intro",
+            "docId": "modules/module1-ros2/intro",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Core ROS 2 Concepts",
+            "href": "/physical-ai-humanoid-textbook/docs/modules/module1-ros2/concepts",
+            "docId": "modules/module1-ros2/concepts",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Practical Examples",
+            "href": "/physical-ai-humanoid-textbook/docs/modules/module1-ros2/practical-examples",
+            "docId": "modules/module1-ros2/practical-examples",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Exercises",
+            "href": "/physical-ai-humanoid-textbook/docs/modules/module1-ros2/exercises",
+            "docId": "modules/module1-ros2/exercises",
+            "unlisted": false
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "category",
+        "label": "Module 2: Digital Twin (Gazebo & Unity)",
+        "items": [
+          {
+            "type": "link",
+            "label": "Module 2 Introduction",
+            "href": "/physical-ai-humanoid-textbook/docs/modules/module2-simulation/intro",
+            "docId": "modules/module2-simulation/intro",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Gazebo Simulation",
+            "href": "/physical-ai-humanoid-textbook/docs/modules/module2-simulation/gazebo",
+            "docId": "modules/module2-simulation/gazebo",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Unity Robotics",
+            "href": "/physical-ai-humanoid-textbook/docs/modules/module2-simulation/unity",
+            "docId": "modules/module2-simulation/unity",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Exercises",
+            "href": "/physical-ai-humanoid-textbook/docs/modules/module2-simulation/exercises",
+            "docId": "modules/module2-simulation/exercises",
+            "unlisted": false
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "category",
+        "label": "Module 3: AI-Robot Brain (NVIDIA Isaac)",
+        "items": [
+          {
+            "type": "link",
+            "label": "Module 3 Introduction",
+            "href": "/physical-ai-humanoid-textbook/docs/modules/module3-nvidia-isaac/intro",
+            "docId": "modules/module3-nvidia-isaac/intro",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Perception Systems",
+            "href": "/physical-ai-humanoid-textbook/docs/modules/module3-nvidia-isaac/perception",
+            "docId": "modules/module3-nvidia-isaac/perception",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Training and Deployment",
+            "href": "/physical-ai-humanoid-textbook/docs/modules/module3-nvidia-isaac/training",
+            "docId": "modules/module3-nvidia-isaac/training",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Exercises",
+            "href": "/physical-ai-humanoid-textbook/docs/modules/module3-nvidia-isaac/exercises",
+            "docId": "modules/module3-nvidia-isaac/exercises",
+            "unlisted": false
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "category",
+        "label": "Module 4: Vision-Language-Action (VLA)",
+        "items": [
+          {
+            "type": "link",
+            "label": "Module 4 Introduction",
+            "href": "/physical-ai-humanoid-textbook/docs/modules/module4-vla/intro",
+            "docId": "modules/module4-vla/intro",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Vision Components",
+            "href": "/physical-ai-humanoid-textbook/docs/modules/module4-vla/vision",
+            "docId": "modules/module4-vla/vision",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Language Understanding",
+            "href": "/physical-ai-humanoid-textbook/docs/modules/module4-vla/language",
+            "docId": "modules/module4-vla/language",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Action Execution",
+            "href": "/physical-ai-humanoid-textbook/docs/modules/module4-vla/action",
+            "docId": "modules/module4-vla/action",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Exercises",
+            "href": "/physical-ai-humanoid-textbook/docs/modules/module4-vla/exercises",
+            "docId": "modules/module4-vla/exercises",
+            "unlisted": false
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "category",
+        "label": "Module 5: Capstone Project",
+        "items": [
+          {
+            "type": "link",
+            "label": "Module 5 Introduction",
+            "href": "/physical-ai-humanoid-textbook/docs/modules/module5-capstone/intro",
+            "docId": "modules/module5-capstone/intro",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Humanoid Robot Setup",
+            "href": "/physical-ai-humanoid-textbook/docs/modules/module5-capstone/humanoid-setup",
+            "docId": "modules/module5-capstone/humanoid-setup",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Voice Control Implementation",
+            "href": "/physical-ai-humanoid-textbook/docs/modules/module5-capstone/voice-control",
+            "docId": "modules/module5-capstone/voice-control",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Full System Integration",
+            "href": "/physical-ai-humanoid-textbook/docs/modules/module5-capstone/full-integration",
+            "docId": "modules/module5-capstone/full-integration",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Exercises",
+            "href": "/physical-ai-humanoid-textbook/docs/modules/module5-capstone/exercises",
+            "docId": "modules/module5-capstone/exercises",
+            "unlisted": false
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "category",
+        "label": "Reference",
+        "items": [
+          {
+            "type": "link",
+            "label": "Citations and References",
+            "href": "/physical-ai-humanoid-textbook/docs/reference/citations",
+            "docId": "reference/citations",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Glossary",
+            "href": "/physical-ai-humanoid-textbook/docs/reference/glossary",
+            "docId": "reference/glossary",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Environment Configuration for Physical AI and Humanoid Robotics Textbook",
+            "href": "/physical-ai-humanoid-textbook/docs/reference/troubleshooting",
+            "docId": "reference/troubleshooting",
+            "unlisted": false
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      }
+    ]
+  },
+  "docs": {
+    "getting-started/index": {
+      "id": "getting-started/index",
+      "title": "Getting Started",
+      "description": "This guide will help you set up your learning environment for the Physical AI and Humanoid Robotics textbook.",
+      "sidebar": "tutorialSidebar"
+    },
+    "getting-started/ros2": {
+      "id": "getting-started/ros2",
+      "title": "ROS 2 Basics",
+      "description": "This section covers the essential ROS 2 concepts you'll need for the textbook modules.",
+      "sidebar": "tutorialSidebar"
+    },
+    "getting-started/simulation": {
+      "id": "getting-started/simulation",
+      "title": "Simulation Setup",
+      "description": "This section helps you set up the simulation environments used throughout the textbook.",
+      "sidebar": "tutorialSidebar"
+    },
+    "intro": {
+      "id": "intro",
+      "title": "Introduction",
+      "description": "Welcome to the Physical AI and Humanoid Robotics Textbook. This comprehensive resource connects digital AI algorithms with real robotic systems, providing both theoretical knowledge and practical implementation strategies.",
+      "sidebar": "tutorialSidebar"
+    },
+    "modules/module1-ros2/concepts": {
+      "id": "modules/module1-ros2/concepts",
+      "title": "Core ROS 2 Concepts",
+      "description": "Nodes",
+      "sidebar": "tutorialSidebar"
+    },
+    "modules/module1-ros2/exercises": {
+      "id": "modules/module1-ros2/exercises",
+      "title": "Exercises",
+      "description": "Exercise 1: Custom Message Publisher",
+      "sidebar": "tutorialSidebar"
+    },
+    "modules/module1-ros2/intro": {
+      "id": "modules/module1-ros2/intro",
+      "title": "Module 1 Introduction",
+      "description": "Overview",
+      "sidebar": "tutorialSidebar"
+    },
+    "modules/module1-ros2/practical-examples": {
+      "id": "modules/module1-ros2/practical-examples",
+      "title": "Practical Examples",
+      "description": "Publisher Example",
+      "sidebar": "tutorialSidebar"
+    },
+    "modules/module2-simulation/exercises": {
+      "id": "modules/module2-simulation/exercises",
+      "title": "Exercises",
+      "description": "Exercise 1: Gazebo Robot Simulation",
+      "sidebar": "tutorialSidebar"
+    },
+    "modules/module2-simulation/gazebo": {
+      "id": "modules/module2-simulation/gazebo",
+      "title": "Gazebo Simulation",
+      "description": "Introduction to Gazebo",
+      "sidebar": "tutorialSidebar"
+    },
+    "modules/module2-simulation/intro": {
+      "id": "modules/module2-simulation/intro",
+      "title": "Module 2 Introduction",
+      "description": "Overview",
+      "sidebar": "tutorialSidebar"
+    },
+    "modules/module2-simulation/unity": {
+      "id": "modules/module2-simulation/unity",
+      "title": "Unity Robotics",
+      "description": "Introduction to Unity for Robotics",
+      "sidebar": "tutorialSidebar"
+    },
+    "modules/module3-nvidia-isaac/exercises": {
+      "id": "modules/module3-nvidia-isaac/exercises",
+      "title": "Exercises",
+      "description": "Exercise 1: Isaac Sim Environment",
+      "sidebar": "tutorialSidebar"
+    },
+    "modules/module3-nvidia-isaac/intro": {
+      "id": "modules/module3-nvidia-isaac/intro",
+      "title": "Module 3 Introduction",
+      "description": "Overview",
+      "sidebar": "tutorialSidebar"
+    },
+    "modules/module3-nvidia-isaac/perception": {
+      "id": "modules/module3-nvidia-isaac/perception",
+      "title": "Perception Systems",
+      "description": "Introduction to Isaac Perception",
+      "sidebar": "tutorialSidebar"
+    },
+    "modules/module3-nvidia-isaac/training": {
+      "id": "modules/module3-nvidia-isaac/training",
+      "title": "Training and Deployment",
+      "description": "Isaac's Training Framework",
+      "sidebar": "tutorialSidebar"
+    },
+    "modules/module4-vla/action": {
+      "id": "modules/module4-vla/action",
+      "title": "Action Execution",
+      "description": "From Language to Action",
+      "sidebar": "tutorialSidebar"
+    },
+    "modules/module4-vla/exercises": {
+      "id": "modules/module4-vla/exercises",
+      "title": "Exercises",
+      "description": "Exercise 1: Vision-Language System",
+      "sidebar": "tutorialSidebar"
+    },
+    "modules/module4-vla/intro": {
+      "id": "modules/module4-vla/intro",
+      "title": "Module 4 Introduction",
+      "description": "Overview",
+      "sidebar": "tutorialSidebar"
+    },
+    "modules/module4-vla/language": {
+      "id": "modules/module4-vla/language",
+      "title": "Language Understanding",
+      "description": "Natural Language in Robotics",
+      "sidebar": "tutorialSidebar"
+    },
+    "modules/module4-vla/vision": {
+      "id": "modules/module4-vla/vision",
+      "title": "Vision Components",
+      "description": "Introduction to Vision in Robotics",
+      "sidebar": "tutorialSidebar"
+    },
+    "modules/module5-capstone/exercises": {
+      "id": "modules/module5-capstone/exercises",
+      "title": "Exercises",
+      "description": "Exercise 1: Basic Voice Command",
+      "sidebar": "tutorialSidebar"
+    },
+    "modules/module5-capstone/full-integration": {
+      "id": "modules/module5-capstone/full-integration",
+      "title": "Full System Integration",
+      "description": "Integration Architecture",
+      "sidebar": "tutorialSidebar"
+    },
+    "modules/module5-capstone/humanoid-setup": {
+      "id": "modules/module5-capstone/humanoid-setup",
+      "title": "Humanoid Robot Setup",
+      "description": "Introduction to Humanoid Robotics",
+      "sidebar": "tutorialSidebar"
+    },
+    "modules/module5-capstone/intro": {
+      "id": "modules/module5-capstone/intro",
+      "title": "Module 5 Introduction",
+      "description": "Overview",
+      "sidebar": "tutorialSidebar"
+    },
+    "modules/module5-capstone/voice-control": {
+      "id": "modules/module5-capstone/voice-control",
+      "title": "Voice Control Implementation",
+      "description": "Voice Control Architecture",
+      "sidebar": "tutorialSidebar"
+    },
+    "reference/citations": {
+      "id": "reference/citations",
+      "title": "Citations and References",
+      "description": "This section contains the comprehensive list of sources cited throughout the textbook, formatted according to APA style.",
+      "sidebar": "tutorialSidebar"
+    },
+    "reference/glossary": {
+      "id": "reference/glossary",
+      "title": "Glossary",
+      "description": "This section defines key terms used throughout the textbook.",
+      "sidebar": "tutorialSidebar"
+    },
+    "reference/troubleshooting": {
+      "id": "reference/troubleshooting",
+      "title": "Environment Configuration for Physical AI and Humanoid Robotics Textbook",
+      "description": "This document outlines the configuration settings for different deployment targets.",
+      "sidebar": "tutorialSidebar"
+    }
+  }
+}

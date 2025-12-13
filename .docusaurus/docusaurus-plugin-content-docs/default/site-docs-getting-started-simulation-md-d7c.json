@@ -1,0 +1,27 @@
+{
+  "id": "getting-started/simulation",
+  "title": "Simulation Setup",
+  "description": "This section helps you set up the simulation environments used throughout the textbook.",
+  "source": "@site/docs/getting-started/simulation.md",
+  "sourceDirName": "getting-started",
+  "slug": "/getting-started/simulation",
+  "permalink": "/physical-ai-humanoid-textbook/docs/getting-started/simulation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/javeri-a/physical-ai-humanoid-textbook/edit/main/docs/getting-started/simulation.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ROS 2 Basics",
+    "permalink": "/physical-ai-humanoid-textbook/docs/getting-started/ros2"
+  },
+  "next": {
+    "title": "Introduction",
+    "permalink": "/physical-ai-humanoid-textbook/docs/intro"
+  }
+}

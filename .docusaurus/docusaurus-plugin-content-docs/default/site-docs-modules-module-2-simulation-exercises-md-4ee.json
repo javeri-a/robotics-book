@@ -1,0 +1,29 @@
+{
+  "id": "modules/module2-simulation/exercises",
+  "title": "Exercises",
+  "description": "Exercise 1: Gazebo Robot Simulation",
+  "source": "@site/docs/modules/module2-simulation/exercises.md",
+  "sourceDirName": "modules/module2-simulation",
+  "slug": "/modules/module2-simulation/exercises",
+  "permalink": "/physical-ai-humanoid-textbook/docs/modules/module2-simulation/exercises",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/javeri-a/physical-ai-humanoid-textbook/edit/main/docs/modules/module2-simulation/exercises.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "id": "exercises",
+    "title": "Exercises",
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Unity Robotics",
+    "permalink": "/physical-ai-humanoid-textbook/docs/modules/module2-simulation/unity"
+  },
+  "next": {
+    "title": "Module 3 Introduction",
+    "permalink": "/physical-ai-humanoid-textbook/docs/modules/module3-nvidia-isaac/intro"
+  }
+}

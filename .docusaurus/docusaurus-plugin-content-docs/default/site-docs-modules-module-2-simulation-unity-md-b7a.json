@@ -1,0 +1,29 @@
+{
+  "id": "modules/module2-simulation/unity",
+  "title": "Unity Robotics",
+  "description": "Introduction to Unity for Robotics",
+  "source": "@site/docs/modules/module2-simulation/unity.md",
+  "sourceDirName": "modules/module2-simulation",
+  "slug": "/modules/module2-simulation/unity",
+  "permalink": "/physical-ai-humanoid-textbook/docs/modules/module2-simulation/unity",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/javeri-a/physical-ai-humanoid-textbook/edit/main/docs/modules/module2-simulation/unity.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "id": "unity",
+    "title": "Unity Robotics",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Gazebo Simulation",
+    "permalink": "/physical-ai-humanoid-textbook/docs/modules/module2-simulation/gazebo"
+  },
+  "next": {
+    "title": "Exercises",
+    "permalink": "/physical-ai-humanoid-textbook/docs/modules/module2-simulation/exercises"
+  }
+}

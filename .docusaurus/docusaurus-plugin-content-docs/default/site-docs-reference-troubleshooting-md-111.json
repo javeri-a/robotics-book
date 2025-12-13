@@ -1,0 +1,20 @@
+{
+  "id": "reference/troubleshooting",
+  "title": "Environment Configuration for Physical AI and Humanoid Robotics Textbook",
+  "description": "This document outlines the configuration settings for different deployment targets.",
+  "source": "@site/docs/reference/troubleshooting.md",
+  "sourceDirName": "reference",
+  "slug": "/reference/troubleshooting",
+  "permalink": "/physical-ai-humanoid-textbook/docs/reference/troubleshooting",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/javeri-a/physical-ai-humanoid-textbook/edit/main/docs/reference/troubleshooting.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Glossary",
+    "permalink": "/physical-ai-humanoid-textbook/docs/reference/glossary"
+  }
+}

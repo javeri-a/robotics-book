@@ -1,0 +1,173 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/physical-ai-humanoid-textbook/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/physical-ai-humanoid-textbook/docs",
+          "mainDocId": "getting-started/index",
+          "docs": [
+            {
+              "id": "getting-started/index",
+              "path": "/physical-ai-humanoid-textbook/docs/getting-started/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "getting-started/ros2",
+              "path": "/physical-ai-humanoid-textbook/docs/getting-started/ros2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "getting-started/simulation",
+              "path": "/physical-ai-humanoid-textbook/docs/getting-started/simulation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/physical-ai-humanoid-textbook/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "modules/module1-ros2/concepts",
+              "path": "/physical-ai-humanoid-textbook/docs/modules/module1-ros2/concepts",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "modules/module1-ros2/exercises",
+              "path": "/physical-ai-humanoid-textbook/docs/modules/module1-ros2/exercises",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "modules/module1-ros2/intro",
+              "path": "/physical-ai-humanoid-textbook/docs/modules/module1-ros2/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "modules/module1-ros2/practical-examples",
+              "path": "/physical-ai-humanoid-textbook/docs/modules/module1-ros2/practical-examples",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "modules/module2-simulation/exercises",
+              "path": "/physical-ai-humanoid-textbook/docs/modules/module2-simulation/exercises",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "modules/module2-simulation/gazebo",
+              "path": "/physical-ai-humanoid-textbook/docs/modules/module2-simulation/gazebo",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "modules/module2-simulation/intro",
+              "path": "/physical-ai-humanoid-textbook/docs/modules/module2-simulation/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "modules/module2-simulation/unity",
+              "path": "/physical-ai-humanoid-textbook/docs/modules/module2-simulation/unity",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "modules/module3-nvidia-isaac/exercises",
+              "path": "/physical-ai-humanoid-textbook/docs/modules/module3-nvidia-isaac/exercises",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "modules/module3-nvidia-isaac/intro",
+              "path": "/physical-ai-humanoid-textbook/docs/modules/module3-nvidia-isaac/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "modules/module3-nvidia-isaac/perception",
+              "path": "/physical-ai-humanoid-textbook/docs/modules/module3-nvidia-isaac/perception",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "modules/module3-nvidia-isaac/training",
+              "path": "/physical-ai-humanoid-textbook/docs/modules/module3-nvidia-isaac/training",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "modules/module4-vla/action",
+              "path": "/physical-ai-humanoid-textbook/docs/modules/module4-vla/action",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "modules/module4-vla/exercises",
+              "path": "/physical-ai-humanoid-textbook/docs/modules/module4-vla/exercises",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "modules/module4-vla/intro",
+              "path": "/physical-ai-humanoid-textbook/docs/modules/module4-vla/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "modules/module4-vla/language",
+              "path": "/physical-ai-humanoid-textbook/docs/modules/module4-vla/language",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "modules/module4-vla/vision",
+              "path": "/physical-ai-humanoid-textbook/docs/modules/module4-vla/vision",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "modules/module5-capstone/exercises",
+              "path": "/physical-ai-humanoid-textbook/docs/modules/module5-capstone/exercises",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "modules/module5-capstone/full-integration",
+              "path": "/physical-ai-humanoid-textbook/docs/modules/module5-capstone/full-integration",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "modules/module5-capstone/humanoid-setup",
+              "path": "/physical-ai-humanoid-textbook/docs/modules/module5-capstone/humanoid-setup",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "modules/module5-capstone/intro",
+              "path": "/physical-ai-humanoid-textbook/docs/modules/module5-capstone/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "modules/module5-capstone/voice-control",
+              "path": "/physical-ai-humanoid-textbook/docs/modules/module5-capstone/voice-control",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "reference/citations",
+              "path": "/physical-ai-humanoid-textbook/docs/reference/citations",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "reference/glossary",
+              "path": "/physical-ai-humanoid-textbook/docs/reference/glossary",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "reference/troubleshooting",
+              "path": "/physical-ai-humanoid-textbook/docs/reference/troubleshooting",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/physical-ai-humanoid-textbook/docs/getting-started/",
+                "label": "getting-started/index"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

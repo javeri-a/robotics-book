@@ -1,0 +1,1038 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/physical-ai-humanoid-textbook/docs",
+          "tagsPath": "/physical-ai-humanoid-textbook/docs/tags",
+          "editUrl": "https://github.com/javeri-a/physical-ai-humanoid-textbook/edit/main/docs",
+          "editUrlLocalized": "https://github.com/javeri-a/physical-ai-humanoid-textbook/edit/main/i18n/en/docusaurus-plugin-content-docs/current",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "C:\\Users\\javer\\hackbook\\humanoid-robotics-textbook\\sidebars.js",
+          "contentPath": "C:\\Users\\javer\\hackbook\\humanoid-robotics-textbook\\docs",
+          "contentPathLocalized": "C:\\Users\\javer\\hackbook\\humanoid-robotics-textbook\\i18n\\en\\docusaurus-plugin-content-docs\\current",
+          "docs": [
+            {
+              "id": "getting-started/index",
+              "title": "Getting Started",
+              "description": "This guide will help you set up your learning environment for the Physical AI and Humanoid Robotics textbook.",
+              "source": "@site/docs/getting-started/index.md",
+              "sourceDirName": "getting-started",
+              "slug": "/getting-started/",
+              "permalink": "/physical-ai-humanoid-textbook/docs/getting-started/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/javeri-a/physical-ai-humanoid-textbook/edit/main/docs/getting-started/index.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "ROS 2 Basics",
+                "permalink": "/physical-ai-humanoid-textbook/docs/getting-started/ros2"
+              }
+            },
+            {
+              "id": "getting-started/ros2",
+              "title": "ROS 2 Basics",
+              "description": "This section covers the essential ROS 2 concepts you'll need for the textbook modules.",
+              "source": "@site/docs/getting-started/ros2.md",
+              "sourceDirName": "getting-started",
+              "slug": "/getting-started/ros2",
+              "permalink": "/physical-ai-humanoid-textbook/docs/getting-started/ros2",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/javeri-a/physical-ai-humanoid-textbook/edit/main/docs/getting-started/ros2.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Getting Started",
+                "permalink": "/physical-ai-humanoid-textbook/docs/getting-started/"
+              },
+              "next": {
+                "title": "Simulation Setup",
+                "permalink": "/physical-ai-humanoid-textbook/docs/getting-started/simulation"
+              }
+            },
+            {
+              "id": "getting-started/simulation",
+              "title": "Simulation Setup",
+              "description": "This section helps you set up the simulation environments used throughout the textbook.",
+              "source": "@site/docs/getting-started/simulation.md",
+              "sourceDirName": "getting-started",
+              "slug": "/getting-started/simulation",
+              "permalink": "/physical-ai-humanoid-textbook/docs/getting-started/simulation",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/javeri-a/physical-ai-humanoid-textbook/edit/main/docs/getting-started/simulation.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "ROS 2 Basics",
+                "permalink": "/physical-ai-humanoid-textbook/docs/getting-started/ros2"
+              },
+              "next": {
+                "title": "Introduction",
+                "permalink": "/physical-ai-humanoid-textbook/docs/intro"
+              }
+            },
+            {
+              "id": "intro",
+              "title": "Introduction",
+              "description": "Welcome to the Physical AI and Humanoid Robotics Textbook. This comprehensive resource connects digital AI algorithms with real robotic systems, providing both theoretical knowledge and practical implementation strategies.",
+              "source": "@site/docs/intro.md",
+              "sourceDirName": ".",
+              "slug": "/intro",
+              "permalink": "/physical-ai-humanoid-textbook/docs/intro",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/javeri-a/physical-ai-humanoid-textbook/edit/main/docs/intro.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Simulation Setup",
+                "permalink": "/physical-ai-humanoid-textbook/docs/getting-started/simulation"
+              },
+              "next": {
+                "title": "Module 1 Introduction",
+                "permalink": "/physical-ai-humanoid-textbook/docs/modules/module1-ros2/intro"
+              }
+            },
+            {
+              "id": "modules/module1-ros2/concepts",
+              "title": "Core ROS 2 Concepts",
+              "description": "Nodes",
+              "source": "@site/docs/modules/module1-ros2/concepts.md",
+              "sourceDirName": "modules/module1-ros2",
+              "slug": "/modules/module1-ros2/concepts",
+              "permalink": "/physical-ai-humanoid-textbook/docs/modules/module1-ros2/concepts",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/javeri-a/physical-ai-humanoid-textbook/edit/main/docs/modules/module1-ros2/concepts.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "id": "concepts",
+                "title": "Core ROS 2 Concepts",
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Module 1 Introduction",
+                "permalink": "/physical-ai-humanoid-textbook/docs/modules/module1-ros2/intro"
+              },
+              "next": {
+                "title": "Practical Examples",
+                "permalink": "/physical-ai-humanoid-textbook/docs/modules/module1-ros2/practical-examples"
+              }
+            },
+            {
+              "id": "modules/module1-ros2/exercises",
+              "title": "Exercises",
+              "description": "Exercise 1: Custom Message Publisher",
+              "source": "@site/docs/modules/module1-ros2/exercises.md",
+              "sourceDirName": "modules/module1-ros2",
+              "slug": "/modules/module1-ros2/exercises",
+              "permalink": "/physical-ai-humanoid-textbook/docs/modules/module1-ros2/exercises",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/javeri-a/physical-ai-humanoid-textbook/edit/main/docs/modules/module1-ros2/exercises.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "id": "exercises",
+                "title": "Exercises",
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Practical Examples",
+                "permalink": "/physical-ai-humanoid-textbook/docs/modules/module1-ros2/practical-examples"
+              },
+              "next": {
+                "title": "Module 2 Introduction",
+                "permalink": "/physical-ai-humanoid-textbook/docs/modules/module2-simulation/intro"
+              }
+            },
+            {
+              "id": "modules/module1-ros2/intro",
+              "title": "Module 1 Introduction",
+              "description": "Overview",
+              "source": "@site/docs/modules/module1-ros2/intro.md",
+              "sourceDirName": "modules/module1-ros2",
+              "slug": "/modules/module1-ros2/intro",
+              "permalink": "/physical-ai-humanoid-textbook/docs/modules/module1-ros2/intro",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/javeri-a/physical-ai-humanoid-textbook/edit/main/docs/modules/module1-ros2/intro.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "id": "intro",
+                "title": "Module 1 Introduction",
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Introduction",
+                "permalink": "/physical-ai-humanoid-textbook/docs/intro"
+              },
+              "next": {
+                "title": "Core ROS 2 Concepts",
+                "permalink": "/physical-ai-humanoid-textbook/docs/modules/module1-ros2/concepts"
+              }
+            },
+            {
+              "id": "modules/module1-ros2/practical-examples",
+              "title": "Practical Examples",
+              "description": "Publisher Example",
+              "source": "@site/docs/modules/module1-ros2/practical-examples.md",
+              "sourceDirName": "modules/module1-ros2",
+              "slug": "/modules/module1-ros2/practical-examples",
+              "permalink": "/physical-ai-humanoid-textbook/docs/modules/module1-ros2/practical-examples",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/javeri-a/physical-ai-humanoid-textbook/edit/main/docs/modules/module1-ros2/practical-examples.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "id": "practical-examples",
+                "title": "Practical Examples",
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Core ROS 2 Concepts",
+                "permalink": "/physical-ai-humanoid-textbook/docs/modules/module1-ros2/concepts"
+              },
+              "next": {
+                "title": "Exercises",
+                "permalink": "/physical-ai-humanoid-textbook/docs/modules/module1-ros2/exercises"
+              }
+            },
+            {
+              "id": "modules/module2-simulation/exercises",
+              "title": "Exercises",
+              "description": "Exercise 1: Gazebo Robot Simulation",
+              "source": "@site/docs/modules/module2-simulation/exercises.md",
+              "sourceDirName": "modules/module2-simulation",
+              "slug": "/modules/module2-simulation/exercises",
+              "permalink": "/physical-ai-humanoid-textbook/docs/modules/module2-simulation/exercises",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/javeri-a/physical-ai-humanoid-textbook/edit/main/docs/modules/module2-simulation/exercises.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "id": "exercises",
+                "title": "Exercises",
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Unity Robotics",
+                "permalink": "/physical-ai-humanoid-textbook/docs/modules/module2-simulation/unity"
+              },
+              "next": {
+                "title": "Module 3 Introduction",
+                "permalink": "/physical-ai-humanoid-textbook/docs/modules/module3-nvidia-isaac/intro"
+              }
+            },
+            {
+              "id": "modules/module2-simulation/gazebo",
+              "title": "Gazebo Simulation",
+              "description": "Introduction to Gazebo",
+              "source": "@site/docs/modules/module2-simulation/gazebo.md",
+              "sourceDirName": "modules/module2-simulation",
+              "slug": "/modules/module2-simulation/gazebo",
+              "permalink": "/physical-ai-humanoid-textbook/docs/modules/module2-simulation/gazebo",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/javeri-a/physical-ai-humanoid-textbook/edit/main/docs/modules/module2-simulation/gazebo.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "id": "gazebo",
+                "title": "Gazebo Simulation",
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Module 2 Introduction",
+                "permalink": "/physical-ai-humanoid-textbook/docs/modules/module2-simulation/intro"
+              },
+              "next": {
+                "title": "Unity Robotics",
+                "permalink": "/physical-ai-humanoid-textbook/docs/modules/module2-simulation/unity"
+              }
+            },
+            {
+              "id": "modules/module2-simulation/intro",
+              "title": "Module 2 Introduction",
+              "description": "Overview",
+              "source": "@site/docs/modules/module2-simulation/intro.md",
+              "sourceDirName": "modules/module2-simulation",
+              "slug": "/modules/module2-simulation/intro",
+              "permalink": "/physical-ai-humanoid-textbook/docs/modules/module2-simulation/intro",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/javeri-a/physical-ai-humanoid-textbook/edit/main/docs/modules/module2-simulation/intro.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "id": "intro",
+                "title": "Module 2 Introduction",
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Exercises",
+                "permalink": "/physical-ai-humanoid-textbook/docs/modules/module1-ros2/exercises"
+              },
+              "next": {
+                "title": "Gazebo Simulation",
+                "permalink": "/physical-ai-humanoid-textbook/docs/modules/module2-simulation/gazebo"
+              }
+            },
+            {
+              "id": "modules/module2-simulation/unity",
+              "title": "Unity Robotics",
+              "description": "Introduction to Unity for Robotics",
+              "source": "@site/docs/modules/module2-simulation/unity.md",
+              "sourceDirName": "modules/module2-simulation",
+              "slug": "/modules/module2-simulation/unity",
+              "permalink": "/physical-ai-humanoid-textbook/docs/modules/module2-simulation/unity",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/javeri-a/physical-ai-humanoid-textbook/edit/main/docs/modules/module2-simulation/unity.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "id": "unity",
+                "title": "Unity Robotics",
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Gazebo Simulation",
+                "permalink": "/physical-ai-humanoid-textbook/docs/modules/module2-simulation/gazebo"
+              },
+              "next": {
+                "title": "Exercises",
+                "permalink": "/physical-ai-humanoid-textbook/docs/modules/module2-simulation/exercises"
+              }
+            },
+            {
+              "id": "modules/module3-nvidia-isaac/exercises",
+              "title": "Exercises",
+              "description": "Exercise 1: Isaac Sim Environment",
+              "source": "@site/docs/modules/module3-nvidia-isaac/exercises.md",
+              "sourceDirName": "modules/module3-nvidia-isaac",
+              "slug": "/modules/module3-nvidia-isaac/exercises",
+              "permalink": "/physical-ai-humanoid-textbook/docs/modules/module3-nvidia-isaac/exercises",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/javeri-a/physical-ai-humanoid-textbook/edit/main/docs/modules/module3-nvidia-isaac/exercises.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "id": "exercises",
+                "title": "Exercises",
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Training and Deployment",
+                "permalink": "/physical-ai-humanoid-textbook/docs/modules/module3-nvidia-isaac/training"
+              },
+              "next": {
+                "title": "Module 4 Introduction",
+                "permalink": "/physical-ai-humanoid-textbook/docs/modules/module4-vla/intro"
+              }
+            },
+            {
+              "id": "modules/module3-nvidia-isaac/intro",
+              "title": "Module 3 Introduction",
+              "description": "Overview",
+              "source": "@site/docs/modules/module3-nvidia-isaac/intro.md",
+              "sourceDirName": "modules/module3-nvidia-isaac",
+              "slug": "/modules/module3-nvidia-isaac/intro",
+              "permalink": "/physical-ai-humanoid-textbook/docs/modules/module3-nvidia-isaac/intro",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/javeri-a/physical-ai-humanoid-textbook/edit/main/docs/modules/module3-nvidia-isaac/intro.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "id": "intro",
+                "title": "Module 3 Introduction",
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Exercises",
+                "permalink": "/physical-ai-humanoid-textbook/docs/modules/module2-simulation/exercises"
+              },
+              "next": {
+                "title": "Perception Systems",
+                "permalink": "/physical-ai-humanoid-textbook/docs/modules/module3-nvidia-isaac/perception"
+              }
+            },
+            {
+              "id": "modules/module3-nvidia-isaac/perception",
+              "title": "Perception Systems",
+              "description": "Introduction to Isaac Perception",
+              "source": "@site/docs/modules/module3-nvidia-isaac/perception.md",
+              "sourceDirName": "modules/module3-nvidia-isaac",
+              "slug": "/modules/module3-nvidia-isaac/perception",
+              "permalink": "/physical-ai-humanoid-textbook/docs/modules/module3-nvidia-isaac/perception",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/javeri-a/physical-ai-humanoid-textbook/edit/main/docs/modules/module3-nvidia-isaac/perception.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "id": "perception",
+                "title": "Perception Systems",
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Module 3 Introduction",
+                "permalink": "/physical-ai-humanoid-textbook/docs/modules/module3-nvidia-isaac/intro"
+              },
+              "next": {
+                "title": "Training and Deployment",
+                "permalink": "/physical-ai-humanoid-textbook/docs/modules/module3-nvidia-isaac/training"
+              }
+            },
+            {
+              "id": "modules/module3-nvidia-isaac/training",
+              "title": "Training and Deployment",
+              "description": "Isaac's Training Framework",
+              "source": "@site/docs/modules/module3-nvidia-isaac/training.md",
+              "sourceDirName": "modules/module3-nvidia-isaac",
+              "slug": "/modules/module3-nvidia-isaac/training",
+              "permalink": "/physical-ai-humanoid-textbook/docs/modules/module3-nvidia-isaac/training",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/javeri-a/physical-ai-humanoid-textbook/edit/main/docs/modules/module3-nvidia-isaac/training.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "id": "training",
+                "title": "Training and Deployment",
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Perception Systems",
+                "permalink": "/physical-ai-humanoid-textbook/docs/modules/module3-nvidia-isaac/perception"
+              },
+              "next": {
+                "title": "Exercises",
+                "permalink": "/physical-ai-humanoid-textbook/docs/modules/module3-nvidia-isaac/exercises"
+              }
+            },
+            {
+              "id": "modules/module4-vla/action",
+              "title": "Action Execution",
+              "description": "From Language to Action",
+              "source": "@site/docs/modules/module4-vla/action.md",
+              "sourceDirName": "modules/module4-vla",
+              "slug": "/modules/module4-vla/action",
+              "permalink": "/physical-ai-humanoid-textbook/docs/modules/module4-vla/action",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/javeri-a/physical-ai-humanoid-textbook/edit/main/docs/modules/module4-vla/action.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "id": "action",
+                "title": "Action Execution",
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Language Understanding",
+                "permalink": "/physical-ai-humanoid-textbook/docs/modules/module4-vla/language"
+              },
+              "next": {
+                "title": "Exercises",
+                "permalink": "/physical-ai-humanoid-textbook/docs/modules/module4-vla/exercises"
+              }
+            },
+            {
+              "id": "modules/module4-vla/exercises",
+              "title": "Exercises",
+              "description": "Exercise 1: Vision-Language System",
+              "source": "@site/docs/modules/module4-vla/exercises.md",
+              "sourceDirName": "modules/module4-vla",
+              "slug": "/modules/module4-vla/exercises",
+              "permalink": "/physical-ai-humanoid-textbook/docs/modules/module4-vla/exercises",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/javeri-a/physical-ai-humanoid-textbook/edit/main/docs/modules/module4-vla/exercises.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "id": "exercises",
+                "title": "Exercises",
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Action Execution",
+                "permalink": "/physical-ai-humanoid-textbook/docs/modules/module4-vla/action"
+              },
+              "next": {
+                "title": "Module 5 Introduction",
+                "permalink": "/physical-ai-humanoid-textbook/docs/modules/module5-capstone/intro"
+              }
+            },
+            {
+              "id": "modules/module4-vla/intro",
+              "title": "Module 4 Introduction",
+              "description": "Overview",
+              "source": "@site/docs/modules/module4-vla/intro.md",
+              "sourceDirName": "modules/module4-vla",
+              "slug": "/modules/module4-vla/intro",
+              "permalink": "/physical-ai-humanoid-textbook/docs/modules/module4-vla/intro",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/javeri-a/physical-ai-humanoid-textbook/edit/main/docs/modules/module4-vla/intro.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "id": "intro",
+                "title": "Module 4 Introduction",
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Exercises",
+                "permalink": "/physical-ai-humanoid-textbook/docs/modules/module3-nvidia-isaac/exercises"
+              },
+              "next": {
+                "title": "Vision Components",
+                "permalink": "/physical-ai-humanoid-textbook/docs/modules/module4-vla/vision"
+              }
+            },
+            {
+              "id": "modules/module4-vla/language",
+              "title": "Language Understanding",
+              "description": "Natural Language in Robotics",
+              "source": "@site/docs/modules/module4-vla/language.md",
+              "sourceDirName": "modules/module4-vla",
+              "slug": "/modules/module4-vla/language",
+              "permalink": "/physical-ai-humanoid-textbook/docs/modules/module4-vla/language",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/javeri-a/physical-ai-humanoid-textbook/edit/main/docs/modules/module4-vla/language.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "id": "language",
+                "title": "Language Understanding",
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Vision Components",
+                "permalink": "/physical-ai-humanoid-textbook/docs/modules/module4-vla/vision"
+              },
+              "next": {
+                "title": "Action Execution",
+                "permalink": "/physical-ai-humanoid-textbook/docs/modules/module4-vla/action"
+              }
+            },
+            {
+              "id": "modules/module4-vla/vision",
+              "title": "Vision Components",
+              "description": "Introduction to Vision in Robotics",
+              "source": "@site/docs/modules/module4-vla/vision.md",
+              "sourceDirName": "modules/module4-vla",
+              "slug": "/modules/module4-vla/vision",
+              "permalink": "/physical-ai-humanoid-textbook/docs/modules/module4-vla/vision",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/javeri-a/physical-ai-humanoid-textbook/edit/main/docs/modules/module4-vla/vision.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "id": "vision",
+                "title": "Vision Components",
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Module 4 Introduction",
+                "permalink": "/physical-ai-humanoid-textbook/docs/modules/module4-vla/intro"
+              },
+              "next": {
+                "title": "Language Understanding",
+                "permalink": "/physical-ai-humanoid-textbook/docs/modules/module4-vla/language"
+              }
+            },
+            {
+              "id": "modules/module5-capstone/exercises",
+              "title": "Exercises",
+              "description": "Exercise 1: Basic Voice Command",
+              "source": "@site/docs/modules/module5-capstone/exercises.md",
+              "sourceDirName": "modules/module5-capstone",
+              "slug": "/modules/module5-capstone/exercises",
+              "permalink": "/physical-ai-humanoid-textbook/docs/modules/module5-capstone/exercises",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/javeri-a/physical-ai-humanoid-textbook/edit/main/docs/modules/module5-capstone/exercises.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "id": "exercises",
+                "title": "Exercises",
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Full System Integration",
+                "permalink": "/physical-ai-humanoid-textbook/docs/modules/module5-capstone/full-integration"
+              },
+              "next": {
+                "title": "Citations and References",
+                "permalink": "/physical-ai-humanoid-textbook/docs/reference/citations"
+              }
+            },
+            {
+              "id": "modules/module5-capstone/full-integration",
+              "title": "Full System Integration",
+              "description": "Integration Architecture",
+              "source": "@site/docs/modules/module5-capstone/full-integration.md",
+              "sourceDirName": "modules/module5-capstone",
+              "slug": "/modules/module5-capstone/full-integration",
+              "permalink": "/physical-ai-humanoid-textbook/docs/modules/module5-capstone/full-integration",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/javeri-a/physical-ai-humanoid-textbook/edit/main/docs/modules/module5-capstone/full-integration.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "id": "full-integration",
+                "title": "Full System Integration",
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Voice Control Implementation",
+                "permalink": "/physical-ai-humanoid-textbook/docs/modules/module5-capstone/voice-control"
+              },
+              "next": {
+                "title": "Exercises",
+                "permalink": "/physical-ai-humanoid-textbook/docs/modules/module5-capstone/exercises"
+              }
+            },
+            {
+              "id": "modules/module5-capstone/humanoid-setup",
+              "title": "Humanoid Robot Setup",
+              "description": "Introduction to Humanoid Robotics",
+              "source": "@site/docs/modules/module5-capstone/humanoid-setup.md",
+              "sourceDirName": "modules/module5-capstone",
+              "slug": "/modules/module5-capstone/humanoid-setup",
+              "permalink": "/physical-ai-humanoid-textbook/docs/modules/module5-capstone/humanoid-setup",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/javeri-a/physical-ai-humanoid-textbook/edit/main/docs/modules/module5-capstone/humanoid-setup.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "id": "humanoid-setup",
+                "title": "Humanoid Robot Setup",
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Module 5 Introduction",
+                "permalink": "/physical-ai-humanoid-textbook/docs/modules/module5-capstone/intro"
+              },
+              "next": {
+                "title": "Voice Control Implementation",
+                "permalink": "/physical-ai-humanoid-textbook/docs/modules/module5-capstone/voice-control"
+              }
+            },
+            {
+              "id": "modules/module5-capstone/intro",
+              "title": "Module 5 Introduction",
+              "description": "Overview",
+              "source": "@site/docs/modules/module5-capstone/intro.md",
+              "sourceDirName": "modules/module5-capstone",
+              "slug": "/modules/module5-capstone/intro",
+              "permalink": "/physical-ai-humanoid-textbook/docs/modules/module5-capstone/intro",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/javeri-a/physical-ai-humanoid-textbook/edit/main/docs/modules/module5-capstone/intro.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "id": "intro",
+                "title": "Module 5 Introduction",
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Exercises",
+                "permalink": "/physical-ai-humanoid-textbook/docs/modules/module4-vla/exercises"
+              },
+              "next": {
+                "title": "Humanoid Robot Setup",
+                "permalink": "/physical-ai-humanoid-textbook/docs/modules/module5-capstone/humanoid-setup"
+              }
+            },
+            {
+              "id": "modules/module5-capstone/voice-control",
+              "title": "Voice Control Implementation",
+              "description": "Voice Control Architecture",
+              "source": "@site/docs/modules/module5-capstone/voice-control.md",
+              "sourceDirName": "modules/module5-capstone",
+              "slug": "/modules/module5-capstone/voice-control",
+              "permalink": "/physical-ai-humanoid-textbook/docs/modules/module5-capstone/voice-control",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/javeri-a/physical-ai-humanoid-textbook/edit/main/docs/modules/module5-capstone/voice-control.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "id": "voice-control",
+                "title": "Voice Control Implementation",
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Humanoid Robot Setup",
+                "permalink": "/physical-ai-humanoid-textbook/docs/modules/module5-capstone/humanoid-setup"
+              },
+              "next": {
+                "title": "Full System Integration",
+                "permalink": "/physical-ai-humanoid-textbook/docs/modules/module5-capstone/full-integration"
+              }
+            },
+            {
+              "id": "reference/citations",
+              "title": "Citations and References",
+              "description": "This section contains the comprehensive list of sources cited throughout the textbook, formatted according to APA style.",
+              "source": "@site/docs/reference/citations.md",
+              "sourceDirName": "reference",
+              "slug": "/reference/citations",
+              "permalink": "/physical-ai-humanoid-textbook/docs/reference/citations",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/javeri-a/physical-ai-humanoid-textbook/edit/main/docs/reference/citations.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "id": "citations",
+                "title": "Citations and References"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Exercises",
+                "permalink": "/physical-ai-humanoid-textbook/docs/modules/module5-capstone/exercises"
+              },
+              "next": {
+                "title": "Glossary",
+                "permalink": "/physical-ai-humanoid-textbook/docs/reference/glossary"
+              }
+            },
+            {
+              "id": "reference/glossary",
+              "title": "Glossary",
+              "description": "This section defines key terms used throughout the textbook.",
+              "source": "@site/docs/reference/glossary.md",
+              "sourceDirName": "reference",
+              "slug": "/reference/glossary",
+              "permalink": "/physical-ai-humanoid-textbook/docs/reference/glossary",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/javeri-a/physical-ai-humanoid-textbook/edit/main/docs/reference/glossary.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "id": "glossary",
+                "title": "Glossary"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Citations and References",
+                "permalink": "/physical-ai-humanoid-textbook/docs/reference/citations"
+              },
+              "next": {
+                "title": "Environment Configuration for Physical AI and Humanoid Robotics Textbook",
+                "permalink": "/physical-ai-humanoid-textbook/docs/reference/troubleshooting"
+              }
+            },
+            {
+              "id": "reference/troubleshooting",
+              "title": "Environment Configuration for Physical AI and Humanoid Robotics Textbook",
+              "description": "This document outlines the configuration settings for different deployment targets.",
+              "source": "@site/docs/reference/troubleshooting.md",
+              "sourceDirName": "reference",
+              "slug": "/reference/troubleshooting",
+              "permalink": "/physical-ai-humanoid-textbook/docs/reference/troubleshooting",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/javeri-a/physical-ai-humanoid-textbook/edit/main/docs/reference/troubleshooting.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Glossary",
+                "permalink": "/physical-ai-humanoid-textbook/docs/reference/glossary"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "category",
+                "label": "Getting Started",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "getting-started/index"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "getting-started/ros2"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "getting-started/simulation"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "doc",
+                "id": "intro"
+              },
+              {
+                "type": "category",
+                "label": "Module 1: Robotic Nervous System (ROS 2)",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "modules/module1-ros2/intro"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "modules/module1-ros2/concepts"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "modules/module1-ros2/practical-examples"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "modules/module1-ros2/exercises"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Module 2: Digital Twin (Gazebo & Unity)",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "modules/module2-simulation/intro"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "modules/module2-simulation/gazebo"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "modules/module2-simulation/unity"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "modules/module2-simulation/exercises"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Module 3: AI-Robot Brain (NVIDIA Isaac)",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "modules/module3-nvidia-isaac/intro"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "modules/module3-nvidia-isaac/perception"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "modules/module3-nvidia-isaac/training"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "modules/module3-nvidia-isaac/exercises"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Module 4: Vision-Language-Action (VLA)",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "modules/module4-vla/intro"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "modules/module4-vla/vision"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "modules/module4-vla/language"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "modules/module4-vla/action"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "modules/module4-vla/exercises"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Module 5: Capstone Project",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "modules/module5-capstone/intro"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "modules/module5-capstone/humanoid-setup"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "modules/module5-capstone/voice-control"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "modules/module5-capstone/full-integration"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "modules/module5-capstone/exercises"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Reference",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "reference/citations"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "reference/glossary"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "reference/troubleshooting"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/physical-ai-humanoid-textbook/404",
+        "source": "@site/src/pages/404.js"
+      },
+      {
+        "type": "jsx",
+        "permalink": "/physical-ai-humanoid-textbook/",
+        "source": "@site/src/pages/index.js"
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}

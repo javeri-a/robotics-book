@@ -1,0 +1,29 @@
+{
+  "id": "modules/module1-ros2/concepts",
+  "title": "Core ROS 2 Concepts",
+  "description": "Nodes",
+  "source": "@site/docs/modules/module1-ros2/concepts.md",
+  "sourceDirName": "modules/module1-ros2",
+  "slug": "/modules/module1-ros2/concepts",
+  "permalink": "/physical-ai-humanoid-textbook/docs/modules/module1-ros2/concepts",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/javeri-a/physical-ai-humanoid-textbook/edit/main/docs/modules/module1-ros2/concepts.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "concepts",
+    "title": "Core ROS 2 Concepts",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Module 1 Introduction",
+    "permalink": "/physical-ai-humanoid-textbook/docs/modules/module1-ros2/intro"
+  },
+  "next": {
+    "title": "Practical Examples",
+    "permalink": "/physical-ai-humanoid-textbook/docs/modules/module1-ros2/practical-examples"
+  }
+}
