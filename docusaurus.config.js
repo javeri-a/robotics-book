@@ -12,7 +12,7 @@ const config = {
   url: 'https://javeri-a.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<org-name>/<repo-name>/'
-  baseUrl: '/robotics-book/',
+  baseUrl: '/',
 
   // GitHub pages deployment config.
   organizationName: 'javeri-a', // Usually your GitHub org/user name.
