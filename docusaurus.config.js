@@ -40,7 +40,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/javeri-a/physical-ai-humanoid-textbook/edit/main/',
+            'https://github.com/javeri-a/hackathon-textbook/edit/main/',
         },
         blog: false, // Disable blog if not needed
         theme: {
@@ -96,7 +96,7 @@ const config = {
             ],
           },
           {
-            href: 'https://github.com/javeri-a/physical-ai-humanoid-textbook',
+            href: 'https://github.com/javeri-a/hackathon-textbook',
             label: 'GitHub',
             position: 'right',
           },
