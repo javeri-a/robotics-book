@@ -5,10 +5,10 @@
   "source": "@site/docs/reference/glossary.md",
   "sourceDirName": "reference",
   "slug": "/reference/glossary",
-  "permalink": "/physical-ai-humanoid-textbook/docs/reference/glossary",
+  "permalink": "/docs/reference/glossary",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/javeri-a/physical-ai-humanoid-textbook/edit/main/docs/reference/glossary.md",
+  "editUrl": "https://github.com/javeri-a/robotics-book/edit/main/docs/reference/glossary.md",
   "tags": [],
   "version": "current",
   "frontMatter": {
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Citations and References",
-    "permalink": "/physical-ai-humanoid-textbook/docs/reference/citations"
+    "permalink": "/docs/reference/citations"
   },
   "next": {
     "title": "Environment Configuration for Physical AI and Humanoid Robotics Textbook",
-    "permalink": "/physical-ai-humanoid-textbook/docs/reference/troubleshooting"
+    "permalink": "/docs/reference/troubleshooting"
   }
 }

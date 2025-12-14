@@ -5,10 +5,10 @@
   "source": "@site/docs/modules/module4-vla/action.md",
   "sourceDirName": "modules/module4-vla",
   "slug": "/modules/module4-vla/action",
-  "permalink": "/physical-ai-humanoid-textbook/docs/modules/module4-vla/action",
+  "permalink": "/docs/modules/module4-vla/action",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/javeri-a/physical-ai-humanoid-textbook/edit/main/docs/modules/module4-vla/action.md",
+  "editUrl": "https://github.com/javeri-a/robotics-book/edit/main/docs/modules/module4-vla/action.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 4,
@@ -20,10 +20,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Language Understanding",
-    "permalink": "/physical-ai-humanoid-textbook/docs/modules/module4-vla/language"
+    "permalink": "/docs/modules/module4-vla/language"
   },
   "next": {
     "title": "Exercises",
-    "permalink": "/physical-ai-humanoid-textbook/docs/modules/module4-vla/exercises"
+    "permalink": "/docs/modules/module4-vla/exercises"
   }
 }

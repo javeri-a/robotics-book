@@ -16,21 +16,21 @@
           {
             "type": "link",
             "label": "Getting Started",
-            "href": "/physical-ai-humanoid-textbook/docs/getting-started/",
+            "href": "/docs/getting-started/",
             "docId": "getting-started/index",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "ROS 2 Basics",
-            "href": "/physical-ai-humanoid-textbook/docs/getting-started/ros2",
+            "href": "/docs/getting-started/ros2",
             "docId": "getting-started/ros2",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Simulation Setup",
-            "href": "/physical-ai-humanoid-textbook/docs/getting-started/simulation",
+            "href": "/docs/getting-started/simulation",
             "docId": "getting-started/simulation",
             "unlisted": false
           }
@@ -41,7 +41,7 @@
       {
         "type": "link",
         "label": "Introduction",
-        "href": "/physical-ai-humanoid-textbook/docs/intro",
+        "href": "/docs/intro",
         "docId": "intro",
         "unlisted": false
       },
@@ -52,28 +52,28 @@
           {
             "type": "link",
             "label": "Module 1 Introduction",
-            "href": "/physical-ai-humanoid-textbook/docs/modules/module1-ros2/intro",
+            "href": "/docs/modules/module1-ros2/intro",
             "docId": "modules/module1-ros2/intro",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Core ROS 2 Concepts",
-            "href": "/physical-ai-humanoid-textbook/docs/modules/module1-ros2/concepts",
+            "href": "/docs/modules/module1-ros2/concepts",
             "docId": "modules/module1-ros2/concepts",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Practical Examples",
-            "href": "/physical-ai-humanoid-textbook/docs/modules/module1-ros2/practical-examples",
+            "href": "/docs/modules/module1-ros2/practical-examples",
             "docId": "modules/module1-ros2/practical-examples",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Exercises",
-            "href": "/physical-ai-humanoid-textbook/docs/modules/module1-ros2/exercises",
+            "href": "/docs/modules/module1-ros2/exercises",
             "docId": "modules/module1-ros2/exercises",
             "unlisted": false
           }
@@ -88,28 +88,28 @@
           {
             "type": "link",
             "label": "Module 2 Introduction",
-            "href": "/physical-ai-humanoid-textbook/docs/modules/module2-simulation/intro",
+            "href": "/docs/modules/module2-simulation/intro",
             "docId": "modules/module2-simulation/intro",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Gazebo Simulation",
-            "href": "/physical-ai-humanoid-textbook/docs/modules/module2-simulation/gazebo",
+            "href": "/docs/modules/module2-simulation/gazebo",
             "docId": "modules/module2-simulation/gazebo",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Unity Robotics",
-            "href": "/physical-ai-humanoid-textbook/docs/modules/module2-simulation/unity",
+            "href": "/docs/modules/module2-simulation/unity",
             "docId": "modules/module2-simulation/unity",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Exercises",
-            "href": "/physical-ai-humanoid-textbook/docs/modules/module2-simulation/exercises",
+            "href": "/docs/modules/module2-simulation/exercises",
             "docId": "modules/module2-simulation/exercises",
             "unlisted": false
           }
@@ -124,28 +124,28 @@
           {
             "type": "link",
             "label": "Module 3 Introduction",
-            "href": "/physical-ai-humanoid-textbook/docs/modules/module3-nvidia-isaac/intro",
+            "href": "/docs/modules/module3-nvidia-isaac/intro",
             "docId": "modules/module3-nvidia-isaac/intro",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Perception Systems",
-            "href": "/physical-ai-humanoid-textbook/docs/modules/module3-nvidia-isaac/perception",
+            "href": "/docs/modules/module3-nvidia-isaac/perception",
             "docId": "modules/module3-nvidia-isaac/perception",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Training and Deployment",
-            "href": "/physical-ai-humanoid-textbook/docs/modules/module3-nvidia-isaac/training",
+            "href": "/docs/modules/module3-nvidia-isaac/training",
             "docId": "modules/module3-nvidia-isaac/training",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Exercises",
-            "href": "/physical-ai-humanoid-textbook/docs/modules/module3-nvidia-isaac/exercises",
+            "href": "/docs/modules/module3-nvidia-isaac/exercises",
             "docId": "modules/module3-nvidia-isaac/exercises",
             "unlisted": false
           }
@@ -160,35 +160,35 @@
           {
             "type": "link",
             "label": "Module 4 Introduction",
-            "href": "/physical-ai-humanoid-textbook/docs/modules/module4-vla/intro",
+            "href": "/docs/modules/module4-vla/intro",
             "docId": "modules/module4-vla/intro",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Vision Components",
-            "href": "/physical-ai-humanoid-textbook/docs/modules/module4-vla/vision",
+            "href": "/docs/modules/module4-vla/vision",
             "docId": "modules/module4-vla/vision",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Language Understanding",
-            "href": "/physical-ai-humanoid-textbook/docs/modules/module4-vla/language",
+            "href": "/docs/modules/module4-vla/language",
             "docId": "modules/module4-vla/language",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Action Execution",
-            "href": "/physical-ai-humanoid-textbook/docs/modules/module4-vla/action",
+            "href": "/docs/modules/module4-vla/action",
             "docId": "modules/module4-vla/action",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Exercises",
-            "href": "/physical-ai-humanoid-textbook/docs/modules/module4-vla/exercises",
+            "href": "/docs/modules/module4-vla/exercises",
             "docId": "modules/module4-vla/exercises",
             "unlisted": false
           }
@@ -203,35 +203,35 @@
           {
             "type": "link",
             "label": "Module 5 Introduction",
-            "href": "/physical-ai-humanoid-textbook/docs/modules/module5-capstone/intro",
+            "href": "/docs/modules/module5-capstone/intro",
             "docId": "modules/module5-capstone/intro",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Humanoid Robot Setup",
-            "href": "/physical-ai-humanoid-textbook/docs/modules/module5-capstone/humanoid-setup",
+            "href": "/docs/modules/module5-capstone/humanoid-setup",
             "docId": "modules/module5-capstone/humanoid-setup",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Voice Control Implementation",
-            "href": "/physical-ai-humanoid-textbook/docs/modules/module5-capstone/voice-control",
+            "href": "/docs/modules/module5-capstone/voice-control",
             "docId": "modules/module5-capstone/voice-control",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Full System Integration",
-            "href": "/physical-ai-humanoid-textbook/docs/modules/module5-capstone/full-integration",
+            "href": "/docs/modules/module5-capstone/full-integration",
             "docId": "modules/module5-capstone/full-integration",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Exercises",
-            "href": "/physical-ai-humanoid-textbook/docs/modules/module5-capstone/exercises",
+            "href": "/docs/modules/module5-capstone/exercises",
             "docId": "modules/module5-capstone/exercises",
             "unlisted": false
           }
@@ -246,21 +246,21 @@
           {
             "type": "link",
             "label": "Citations and References",
-            "href": "/physical-ai-humanoid-textbook/docs/reference/citations",
+            "href": "/docs/reference/citations",
             "docId": "reference/citations",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Glossary",
-            "href": "/physical-ai-humanoid-textbook/docs/reference/glossary",
+            "href": "/docs/reference/glossary",
             "docId": "reference/glossary",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Environment Configuration for Physical AI and Humanoid Robotics Textbook",
-            "href": "/physical-ai-humanoid-textbook/docs/reference/troubleshooting",
+            "href": "/docs/reference/troubleshooting",
             "docId": "reference/troubleshooting",
             "unlisted": false
           }

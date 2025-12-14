@@ -3,193 +3,193 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/physical-ai-humanoid-textbook/404',
-    component: ComponentCreator('/physical-ai-humanoid-textbook/404', 'a2d'),
+    path: '/404',
+    component: ComponentCreator('/404', '973'),
     exact: true
   },
   {
-    path: '/physical-ai-humanoid-textbook/docs',
-    component: ComponentCreator('/physical-ai-humanoid-textbook/docs', 'f18'),
+    path: '/docs',
+    component: ComponentCreator('/docs', '3c0'),
     routes: [
       {
-        path: '/physical-ai-humanoid-textbook/docs',
-        component: ComponentCreator('/physical-ai-humanoid-textbook/docs', 'a5b'),
+        path: '/docs',
+        component: ComponentCreator('/docs', '83f'),
         routes: [
           {
-            path: '/physical-ai-humanoid-textbook/docs',
-            component: ComponentCreator('/physical-ai-humanoid-textbook/docs', '30d'),
+            path: '/docs',
+            component: ComponentCreator('/docs', '393'),
             routes: [
               {
-                path: '/physical-ai-humanoid-textbook/docs/getting-started/',
-                component: ComponentCreator('/physical-ai-humanoid-textbook/docs/getting-started/', '738'),
+                path: '/docs/getting-started/',
+                component: ComponentCreator('/docs/getting-started/', 'cd1'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/physical-ai-humanoid-textbook/docs/getting-started/ros2',
-                component: ComponentCreator('/physical-ai-humanoid-textbook/docs/getting-started/ros2', 'b7f'),
+                path: '/docs/getting-started/ros2',
+                component: ComponentCreator('/docs/getting-started/ros2', '490'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/physical-ai-humanoid-textbook/docs/getting-started/simulation',
-                component: ComponentCreator('/physical-ai-humanoid-textbook/docs/getting-started/simulation', '90a'),
+                path: '/docs/getting-started/simulation',
+                component: ComponentCreator('/docs/getting-started/simulation', 'd23'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/physical-ai-humanoid-textbook/docs/intro',
-                component: ComponentCreator('/physical-ai-humanoid-textbook/docs/intro', '606'),
+                path: '/docs/intro',
+                component: ComponentCreator('/docs/intro', 'aed'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/physical-ai-humanoid-textbook/docs/modules/module1-ros2/concepts',
-                component: ComponentCreator('/physical-ai-humanoid-textbook/docs/modules/module1-ros2/concepts', 'bfb'),
+                path: '/docs/modules/module1-ros2/concepts',
+                component: ComponentCreator('/docs/modules/module1-ros2/concepts', 'ee9'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/physical-ai-humanoid-textbook/docs/modules/module1-ros2/exercises',
-                component: ComponentCreator('/physical-ai-humanoid-textbook/docs/modules/module1-ros2/exercises', '194'),
+                path: '/docs/modules/module1-ros2/exercises',
+                component: ComponentCreator('/docs/modules/module1-ros2/exercises', '418'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/physical-ai-humanoid-textbook/docs/modules/module1-ros2/intro',
-                component: ComponentCreator('/physical-ai-humanoid-textbook/docs/modules/module1-ros2/intro', '83e'),
+                path: '/docs/modules/module1-ros2/intro',
+                component: ComponentCreator('/docs/modules/module1-ros2/intro', '5a3'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/physical-ai-humanoid-textbook/docs/modules/module1-ros2/practical-examples',
-                component: ComponentCreator('/physical-ai-humanoid-textbook/docs/modules/module1-ros2/practical-examples', '98b'),
+                path: '/docs/modules/module1-ros2/practical-examples',
+                component: ComponentCreator('/docs/modules/module1-ros2/practical-examples', '132'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/physical-ai-humanoid-textbook/docs/modules/module2-simulation/exercises',
-                component: ComponentCreator('/physical-ai-humanoid-textbook/docs/modules/module2-simulation/exercises', 'ae6'),
+                path: '/docs/modules/module2-simulation/exercises',
+                component: ComponentCreator('/docs/modules/module2-simulation/exercises', '586'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/physical-ai-humanoid-textbook/docs/modules/module2-simulation/gazebo',
-                component: ComponentCreator('/physical-ai-humanoid-textbook/docs/modules/module2-simulation/gazebo', '93b'),
+                path: '/docs/modules/module2-simulation/gazebo',
+                component: ComponentCreator('/docs/modules/module2-simulation/gazebo', '3e5'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/physical-ai-humanoid-textbook/docs/modules/module2-simulation/intro',
-                component: ComponentCreator('/physical-ai-humanoid-textbook/docs/modules/module2-simulation/intro', '579'),
+                path: '/docs/modules/module2-simulation/intro',
+                component: ComponentCreator('/docs/modules/module2-simulation/intro', 'a9a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/physical-ai-humanoid-textbook/docs/modules/module2-simulation/unity',
-                component: ComponentCreator('/physical-ai-humanoid-textbook/docs/modules/module2-simulation/unity', 'ab7'),
+                path: '/docs/modules/module2-simulation/unity',
+                component: ComponentCreator('/docs/modules/module2-simulation/unity', '320'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/physical-ai-humanoid-textbook/docs/modules/module3-nvidia-isaac/exercises',
-                component: ComponentCreator('/physical-ai-humanoid-textbook/docs/modules/module3-nvidia-isaac/exercises', '6f7'),
+                path: '/docs/modules/module3-nvidia-isaac/exercises',
+                component: ComponentCreator('/docs/modules/module3-nvidia-isaac/exercises', 'f5b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/physical-ai-humanoid-textbook/docs/modules/module3-nvidia-isaac/intro',
-                component: ComponentCreator('/physical-ai-humanoid-textbook/docs/modules/module3-nvidia-isaac/intro', 'b98'),
+                path: '/docs/modules/module3-nvidia-isaac/intro',
+                component: ComponentCreator('/docs/modules/module3-nvidia-isaac/intro', 'da2'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/physical-ai-humanoid-textbook/docs/modules/module3-nvidia-isaac/perception',
-                component: ComponentCreator('/physical-ai-humanoid-textbook/docs/modules/module3-nvidia-isaac/perception', 'b93'),
+                path: '/docs/modules/module3-nvidia-isaac/perception',
+                component: ComponentCreator('/docs/modules/module3-nvidia-isaac/perception', 'fe2'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/physical-ai-humanoid-textbook/docs/modules/module3-nvidia-isaac/training',
-                component: ComponentCreator('/physical-ai-humanoid-textbook/docs/modules/module3-nvidia-isaac/training', 'bf0'),
+                path: '/docs/modules/module3-nvidia-isaac/training',
+                component: ComponentCreator('/docs/modules/module3-nvidia-isaac/training', 'e7f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/physical-ai-humanoid-textbook/docs/modules/module4-vla/action',
-                component: ComponentCreator('/physical-ai-humanoid-textbook/docs/modules/module4-vla/action', '3fa'),
+                path: '/docs/modules/module4-vla/action',
+                component: ComponentCreator('/docs/modules/module4-vla/action', '9a0'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/physical-ai-humanoid-textbook/docs/modules/module4-vla/exercises',
-                component: ComponentCreator('/physical-ai-humanoid-textbook/docs/modules/module4-vla/exercises', 'd5e'),
+                path: '/docs/modules/module4-vla/exercises',
+                component: ComponentCreator('/docs/modules/module4-vla/exercises', '84e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/physical-ai-humanoid-textbook/docs/modules/module4-vla/intro',
-                component: ComponentCreator('/physical-ai-humanoid-textbook/docs/modules/module4-vla/intro', '118'),
+                path: '/docs/modules/module4-vla/intro',
+                component: ComponentCreator('/docs/modules/module4-vla/intro', 'bfa'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/physical-ai-humanoid-textbook/docs/modules/module4-vla/language',
-                component: ComponentCreator('/physical-ai-humanoid-textbook/docs/modules/module4-vla/language', 'aaa'),
+                path: '/docs/modules/module4-vla/language',
+                component: ComponentCreator('/docs/modules/module4-vla/language', '1d9'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/physical-ai-humanoid-textbook/docs/modules/module4-vla/vision',
-                component: ComponentCreator('/physical-ai-humanoid-textbook/docs/modules/module4-vla/vision', 'e68'),
+                path: '/docs/modules/module4-vla/vision',
+                component: ComponentCreator('/docs/modules/module4-vla/vision', '62f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/physical-ai-humanoid-textbook/docs/modules/module5-capstone/exercises',
-                component: ComponentCreator('/physical-ai-humanoid-textbook/docs/modules/module5-capstone/exercises', '3fe'),
+                path: '/docs/modules/module5-capstone/exercises',
+                component: ComponentCreator('/docs/modules/module5-capstone/exercises', '484'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/physical-ai-humanoid-textbook/docs/modules/module5-capstone/full-integration',
-                component: ComponentCreator('/physical-ai-humanoid-textbook/docs/modules/module5-capstone/full-integration', 'cba'),
+                path: '/docs/modules/module5-capstone/full-integration',
+                component: ComponentCreator('/docs/modules/module5-capstone/full-integration', '4e9'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/physical-ai-humanoid-textbook/docs/modules/module5-capstone/humanoid-setup',
-                component: ComponentCreator('/physical-ai-humanoid-textbook/docs/modules/module5-capstone/humanoid-setup', 'eaf'),
+                path: '/docs/modules/module5-capstone/humanoid-setup',
+                component: ComponentCreator('/docs/modules/module5-capstone/humanoid-setup', '8d0'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/physical-ai-humanoid-textbook/docs/modules/module5-capstone/intro',
-                component: ComponentCreator('/physical-ai-humanoid-textbook/docs/modules/module5-capstone/intro', '72e'),
+                path: '/docs/modules/module5-capstone/intro',
+                component: ComponentCreator('/docs/modules/module5-capstone/intro', '57b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/physical-ai-humanoid-textbook/docs/modules/module5-capstone/voice-control',
-                component: ComponentCreator('/physical-ai-humanoid-textbook/docs/modules/module5-capstone/voice-control', '152'),
+                path: '/docs/modules/module5-capstone/voice-control',
+                component: ComponentCreator('/docs/modules/module5-capstone/voice-control', '5e0'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/physical-ai-humanoid-textbook/docs/reference/citations',
-                component: ComponentCreator('/physical-ai-humanoid-textbook/docs/reference/citations', '91d'),
+                path: '/docs/reference/citations',
+                component: ComponentCreator('/docs/reference/citations', '4f8'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/physical-ai-humanoid-textbook/docs/reference/glossary',
-                component: ComponentCreator('/physical-ai-humanoid-textbook/docs/reference/glossary', 'abe'),
+                path: '/docs/reference/glossary',
+                component: ComponentCreator('/docs/reference/glossary', '545'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/physical-ai-humanoid-textbook/docs/reference/troubleshooting',
-                component: ComponentCreator('/physical-ai-humanoid-textbook/docs/reference/troubleshooting', '078'),
+                path: '/docs/reference/troubleshooting',
+                component: ComponentCreator('/docs/reference/troubleshooting', '336'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }
@@ -200,8 +200,8 @@ export default [
     ]
   },
   {
-    path: '/physical-ai-humanoid-textbook/',
-    component: ComponentCreator('/physical-ai-humanoid-textbook/', 'c98'),
+    path: '/',
+    component: ComponentCreator('/', 'c4f'),
     exact: true
   },
   {

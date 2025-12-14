@@ -5,10 +5,10 @@
   "source": "@site/docs/getting-started/index.md",
   "sourceDirName": "getting-started",
   "slug": "/getting-started/",
-  "permalink": "/physical-ai-humanoid-textbook/docs/getting-started/",
+  "permalink": "/docs/getting-started/",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/javeri-a/physical-ai-humanoid-textbook/edit/main/docs/getting-started/index.md",
+  "editUrl": "https://github.com/javeri-a/robotics-book/edit/main/docs/getting-started/index.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 1,
@@ -18,6 +18,6 @@
   "sidebar": "tutorialSidebar",
   "next": {
     "title": "ROS 2 Basics",
-    "permalink": "/physical-ai-humanoid-textbook/docs/getting-started/ros2"
+    "permalink": "/docs/getting-started/ros2"
   }
 }

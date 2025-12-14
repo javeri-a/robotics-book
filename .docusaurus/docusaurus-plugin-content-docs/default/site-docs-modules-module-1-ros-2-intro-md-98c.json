@@ -5,10 +5,10 @@
   "source": "@site/docs/modules/module1-ros2/intro.md",
   "sourceDirName": "modules/module1-ros2",
   "slug": "/modules/module1-ros2/intro",
-  "permalink": "/physical-ai-humanoid-textbook/docs/modules/module1-ros2/intro",
+  "permalink": "/docs/modules/module1-ros2/intro",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/javeri-a/physical-ai-humanoid-textbook/edit/main/docs/modules/module1-ros2/intro.md",
+  "editUrl": "https://github.com/javeri-a/robotics-book/edit/main/docs/modules/module1-ros2/intro.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 1,
@@ -20,10 +20,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Introduction",
-    "permalink": "/physical-ai-humanoid-textbook/docs/intro"
+    "permalink": "/docs/intro"
   },
   "next": {
     "title": "Core ROS 2 Concepts",
-    "permalink": "/physical-ai-humanoid-textbook/docs/modules/module1-ros2/concepts"
+    "permalink": "/docs/modules/module1-ros2/concepts"
   }
 }

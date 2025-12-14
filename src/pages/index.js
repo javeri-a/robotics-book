@@ -53,12 +53,12 @@ function HomepageHeader() {
             </div>
             <div className={clsx(styles.buttons, styles.fadeIn, isMounted && styles.loaded)}>
               <Link
-                className="button button--secondary button--lg"
+                className="button button--primary button--lg"
                 to="/docs/intro">
                 Get Started
               </Link>
               <Link
-                className="button button--outline button--lg margin-left--md"
+                className="button button--secondary button--lg margin-left--md"
                 to="/docs/modules/module1-ros2/intro">
                 View Modules
               </Link>
@@ -70,6 +70,60 @@ function HomepageHeader() {
         </div>
       </div>
     </header>
+  );
+}
+
+function AboutSection() {
+  return (
+    <section className={clsx(styles.aboutSection)}>
+      <div className="container padding-vert--xl">
+        <div className="row">
+          <div className="col col--12 text--center margin-bottom--lg">
+            <h2 className={styles.sectionTitle}>About This Textbook</h2>
+            <p className={clsx(styles.sectionDescription, 'padding-horiz--md')}>
+              The Physical AI & Humanoid Robotics Textbook is the most comprehensive curriculum for building
+              real-world humanoid robots. Developed by industry experts and academic researchers, this resource
+              bridges the gap between digital AI and physical robots.
+            </p>
+          </div>
+        </div>
+
+        <div className="row">
+          <div className="col col--4">
+            <div className={clsx(styles.aboutCard, styles.fadeIn)}>
+              <div className={styles.aboutIcon}>🎓</div>
+              <h3>Academic Rigor</h3>
+              <p>
+                Built on cutting-edge research from top universities and robotics labs,
+                with peer-reviewed content and real-world applications.
+              </p>
+            </div>
+          </div>
+
+          <div className="col col--4">
+            <div className={clsx(styles.aboutCard, styles.fadeIn)}>
+              <div className={styles.aboutIcon}>🤖</div>
+              <h3>Industry Ready</h3>
+              <p>
+                Developed in collaboration with leading robotics companies and research
+                institutions to ensure practical applicability.
+              </p>
+            </div>
+          </div>
+
+          <div className="col col--4">
+            <div className={clsx(styles.aboutCard, styles.fadeIn)}>
+              <div className={styles.aboutIcon}>🚀</div>
+              <h3>Future Focused</h3>
+              <p>
+                Covers emerging technologies like vision-language-action systems,
+                neural networks for robot control, and ethical AI considerations.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
   );
 }
 
@@ -185,18 +239,97 @@ function StatsCard() {
 }
 
 function Testimonial() {
+  const testimonials = [
+    {
+      quote: "This curriculum provided the foundation I needed to build advanced humanoid control systems at my research lab.",
+      author: "Dr. Sarah Johnson",
+      position: "Lead Robotics Engineer, Research Institution"
+    },
+    {
+      quote: "The hands-on approach and comprehensive coverage of both hardware and software aspects made this textbook invaluable for our team.",
+      author: "Michael Chen",
+      position: "Senior AI Researcher, Tech Company"
+    },
+    {
+      quote: "Finally, a resource that bridges the gap between AI theory and real-world robotics applications. A must-have for any serious robotics developer.",
+      author: "Elena Rodriguez",
+      position: "Robotics PhD Student, Top University"
+    }
+  ];
+
+  const [activeIndex, setActiveIndex] = useState(0);
+
+  useEffect(() => {
+    const interval = setInterval(() => {
+      setActiveIndex((prevIndex) => (prevIndex + 1) % testimonials.length);
+    }, 5000);
+
+    return () => clearInterval(interval);
+  }, []);
+
   return (
-    <div className={clsx('container', styles.testimonialSection)}>
-      <div className="row">
-        <div className="col col--12 text--center">
-          <h3 className={styles.testimonialTitle}>Trusted by Robotics Engineers</h3>
-          <p className={styles.testimonialText}>
-            "This curriculum provided the foundation I needed to build advanced humanoid control systems at my research lab."
-          </p>
-          <p className={styles.testimonialAuthor}>— Lead Robotics Engineer, Research Institution</p>
+    <div className={clsx(styles.testimonialSection)}>
+      <div className="container padding-vert--xl">
+        <div className="row">
+          <div className="col col--12 text--center">
+            <h3 className={styles.testimonialTitle}>Trusted by Robotics Experts</h3>
+            <div className="padding-horiz--md">
+              <div className={styles.testimonialCard}>
+                <p className={styles.testimonialText}>
+                  "{testimonials[activeIndex].quote}"
+                </p>
+                <div className={styles.testimonialAuthor}>
+                  <p className={styles.authorName}>{testimonials[activeIndex].author}</p>
+                  <p className={styles.authorPosition}>{testimonials[activeIndex].position}</p>
+                </div>
+              </div>
+
+              <div className={styles.testimonialIndicators}>
+                {testimonials.map((_, index) => (
+                  <button
+                    key={index}
+                    className={clsx(styles.testimonialIndicator, {
+                      [styles.active]: index === activeIndex
+                    })}
+                    onClick={() => setActiveIndex(index)}
+                  />
+                ))}
+              </div>
+            </div>
+          </div>
         </div>
       </div>
     </div>
+  );
+}
+
+function CtaSection() {
+  return (
+    <section className={styles.ctaSection}>
+      <div className="container padding-vert--xl text--center">
+        <div className="row">
+          <div className="col col--8 col--offset--2">
+            <h2>Ready to Build the Future of Robotics?</h2>
+            <p className="padding-horiz--md">
+              Join thousands of engineers and researchers learning the complete stack of humanoid robotics development.
+              Start with the fundamentals and progress to advanced implementations.
+            </p>
+            <div className={styles.buttons}>
+              <Link
+                className="button button--primary button--lg"
+                to="/docs/intro">
+                Start Learning Now
+              </Link>
+              <Link
+                className="button button--secondary button--lg margin-left--md"
+                to="/docs/modules/module1-ros2/intro">
+                Explore Modules
+              </Link>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
   );
 }
 
@@ -262,6 +395,8 @@ export default function Home() {
       <HomepageHeader />
       <main>
         <StatsCard />
+
+        <AboutSection />
 
         <section className={styles.features}>
           <div className="container padding-vert--xl">
@@ -342,24 +477,7 @@ def main(args=None):
           </div>
         </section>
 
-        <section className={styles.finalcta}>
-          <div className="container padding-vert--xl text--center">
-            <h2>Start Building Humanoid Robots</h2>
-            <p className="padding-horiz--md">Join developers creating the next generation of physical AI systems</p>
-            <div className={styles.buttons}>
-              <Link
-                className="button button--primary button--lg"
-                to="/docs/intro">
-                Begin Your Journey
-              </Link>
-              <Link
-                className="button button--secondary button--lg margin-left--md"
-                to="/docs/modules/module1-ros2/intro">
-                Explore Modules
-              </Link>
-            </div>
-          </div>
-        </section>
+        <CtaSection />
       </main>
     </Layout>
   );

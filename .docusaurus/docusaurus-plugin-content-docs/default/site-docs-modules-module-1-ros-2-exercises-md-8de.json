@@ -5,10 +5,10 @@
   "source": "@site/docs/modules/module1-ros2/exercises.md",
   "sourceDirName": "modules/module1-ros2",
   "slug": "/modules/module1-ros2/exercises",
-  "permalink": "/physical-ai-humanoid-textbook/docs/modules/module1-ros2/exercises",
+  "permalink": "/docs/modules/module1-ros2/exercises",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/javeri-a/physical-ai-humanoid-textbook/edit/main/docs/modules/module1-ros2/exercises.md",
+  "editUrl": "https://github.com/javeri-a/robotics-book/edit/main/docs/modules/module1-ros2/exercises.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 4,
@@ -20,10 +20,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Practical Examples",
-    "permalink": "/physical-ai-humanoid-textbook/docs/modules/module1-ros2/practical-examples"
+    "permalink": "/docs/modules/module1-ros2/practical-examples"
   },
   "next": {
     "title": "Module 2 Introduction",
-    "permalink": "/physical-ai-humanoid-textbook/docs/modules/module2-simulation/intro"
+    "permalink": "/docs/modules/module2-simulation/intro"
   }
 }

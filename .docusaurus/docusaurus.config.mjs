@@ -8,9 +8,9 @@ export default {
   "tagline": "Connecting digital AI to real robots",
   "favicon": "img/favicon.ico",
   "url": "https://javeri-a.github.io",
-  "baseUrl": "/physical-ai-humanoid-textbook/",
+  "baseUrl": "/",
   "organizationName": "javeri-a",
-  "projectName": "physical-ai-humanoid-textbook",
+  "projectName": "robotics-book",
   "onBrokenLinks": "warn",
   "onBrokenMarkdownLinks": "warn",
   "i18n": {
@@ -27,7 +27,7 @@ export default {
       {
         "docs": {
           "sidebarPath": "./sidebars.js",
-          "editUrl": "https://github.com/javeri-a/physical-ai-humanoid-textbook/edit/main/"
+          "editUrl": "https://github.com/javeri-a/robotics-book/edit/main/"
         },
         "blog": false,
         "theme": {
@@ -79,7 +79,7 @@ export default {
           ]
         },
         {
-          "href": "https://github.com/javeri-a/physical-ai-humanoid-textbook",
+          "href": "https://github.com/javeri-a/robotics-book",
           "label": "GitHub",
           "position": "right"
         }

@@ -5,10 +5,10 @@
   "source": "@site/docs/modules/module4-vla/language.md",
   "sourceDirName": "modules/module4-vla",
   "slug": "/modules/module4-vla/language",
-  "permalink": "/physical-ai-humanoid-textbook/docs/modules/module4-vla/language",
+  "permalink": "/docs/modules/module4-vla/language",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/javeri-a/physical-ai-humanoid-textbook/edit/main/docs/modules/module4-vla/language.md",
+  "editUrl": "https://github.com/javeri-a/robotics-book/edit/main/docs/modules/module4-vla/language.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 3,
@@ -20,10 +20,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Vision Components",
-    "permalink": "/physical-ai-humanoid-textbook/docs/modules/module4-vla/vision"
+    "permalink": "/docs/modules/module4-vla/vision"
   },
   "next": {
     "title": "Action Execution",
-    "permalink": "/physical-ai-humanoid-textbook/docs/modules/module4-vla/action"
+    "permalink": "/docs/modules/module4-vla/action"
   }
 }

@@ -5,10 +5,10 @@
   "source": "@site/docs/modules/module5-capstone/intro.md",
   "sourceDirName": "modules/module5-capstone",
   "slug": "/modules/module5-capstone/intro",
-  "permalink": "/physical-ai-humanoid-textbook/docs/modules/module5-capstone/intro",
+  "permalink": "/docs/modules/module5-capstone/intro",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/javeri-a/physical-ai-humanoid-textbook/edit/main/docs/modules/module5-capstone/intro.md",
+  "editUrl": "https://github.com/javeri-a/robotics-book/edit/main/docs/modules/module5-capstone/intro.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 1,
@@ -20,10 +20,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Exercises",
-    "permalink": "/physical-ai-humanoid-textbook/docs/modules/module4-vla/exercises"
+    "permalink": "/docs/modules/module4-vla/exercises"
   },
   "next": {
     "title": "Humanoid Robot Setup",
-    "permalink": "/physical-ai-humanoid-textbook/docs/modules/module5-capstone/humanoid-setup"
+    "permalink": "/docs/modules/module5-capstone/humanoid-setup"
   }
 }

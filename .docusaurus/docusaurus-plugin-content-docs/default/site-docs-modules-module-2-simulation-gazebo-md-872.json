@@ -5,10 +5,10 @@
   "source": "@site/docs/modules/module2-simulation/gazebo.md",
   "sourceDirName": "modules/module2-simulation",
   "slug": "/modules/module2-simulation/gazebo",
-  "permalink": "/physical-ai-humanoid-textbook/docs/modules/module2-simulation/gazebo",
+  "permalink": "/docs/modules/module2-simulation/gazebo",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/javeri-a/physical-ai-humanoid-textbook/edit/main/docs/modules/module2-simulation/gazebo.md",
+  "editUrl": "https://github.com/javeri-a/robotics-book/edit/main/docs/modules/module2-simulation/gazebo.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 2,
@@ -20,10 +20,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Module 2 Introduction",
-    "permalink": "/physical-ai-humanoid-textbook/docs/modules/module2-simulation/intro"
+    "permalink": "/docs/modules/module2-simulation/intro"
   },
   "next": {
     "title": "Unity Robotics",
-    "permalink": "/physical-ai-humanoid-textbook/docs/modules/module2-simulation/unity"
+    "permalink": "/docs/modules/module2-simulation/unity"
   }
 }

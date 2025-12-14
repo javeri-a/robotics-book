@@ -5,10 +5,10 @@
   "source": "@site/docs/modules/module4-vla/vision.md",
   "sourceDirName": "modules/module4-vla",
   "slug": "/modules/module4-vla/vision",
-  "permalink": "/physical-ai-humanoid-textbook/docs/modules/module4-vla/vision",
+  "permalink": "/docs/modules/module4-vla/vision",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/javeri-a/physical-ai-humanoid-textbook/edit/main/docs/modules/module4-vla/vision.md",
+  "editUrl": "https://github.com/javeri-a/robotics-book/edit/main/docs/modules/module4-vla/vision.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 2,
@@ -20,10 +20,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Module 4 Introduction",
-    "permalink": "/physical-ai-humanoid-textbook/docs/modules/module4-vla/intro"
+    "permalink": "/docs/modules/module4-vla/intro"
   },
   "next": {
     "title": "Language Understanding",
-    "permalink": "/physical-ai-humanoid-textbook/docs/modules/module4-vla/language"
+    "permalink": "/docs/modules/module4-vla/language"
   }
 }

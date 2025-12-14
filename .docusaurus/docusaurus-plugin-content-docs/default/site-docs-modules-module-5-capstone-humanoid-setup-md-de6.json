@@ -5,10 +5,10 @@
   "source": "@site/docs/modules/module5-capstone/humanoid-setup.md",
   "sourceDirName": "modules/module5-capstone",
   "slug": "/modules/module5-capstone/humanoid-setup",
-  "permalink": "/physical-ai-humanoid-textbook/docs/modules/module5-capstone/humanoid-setup",
+  "permalink": "/docs/modules/module5-capstone/humanoid-setup",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/javeri-a/physical-ai-humanoid-textbook/edit/main/docs/modules/module5-capstone/humanoid-setup.md",
+  "editUrl": "https://github.com/javeri-a/robotics-book/edit/main/docs/modules/module5-capstone/humanoid-setup.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 2,
@@ -20,10 +20,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Module 5 Introduction",
-    "permalink": "/physical-ai-humanoid-textbook/docs/modules/module5-capstone/intro"
+    "permalink": "/docs/modules/module5-capstone/intro"
   },
   "next": {
     "title": "Voice Control Implementation",
-    "permalink": "/physical-ai-humanoid-textbook/docs/modules/module5-capstone/voice-control"
+    "permalink": "/docs/modules/module5-capstone/voice-control"
   }
 }
