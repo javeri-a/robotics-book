@@ -1,145 +1,192 @@
 {
-  "/404-973": {
-    "__comp": "6bb41b40",
+  "/__docusaurus/debug-5f9": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "e7a07e33"
-    },
-    "config": "5e9f5e1a"
+      "plugin": "plugin---docusaurus-debug-85-c-b17"
+    }
   },
-  "/docs-3c0": {
-    "__comp": "5e95c892",
+  "/__docusaurus/debug/config-09d": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "a0fda64c"
+      "plugin": "plugin---docusaurus-debug-85-c-b17"
+    }
+  },
+  "/__docusaurus/debug/content-318": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-85-c-b17"
+    },
+    "allContent": "allContent---docusaurus-debug-content-246-9aa"
+  },
+  "/__docusaurus/debug/globalData-75b": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-85-c-b17"
+    }
+  },
+  "/__docusaurus/debug/metadata-65f": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-85-c-b17"
+    }
+  },
+  "/__docusaurus/debug/registry-be8": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-85-c-b17"
+    }
+  },
+  "/__docusaurus/debug/routes-7e0": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-85-c-b17"
+    }
+  },
+  "/404-973": {
+    "__comp": "__comp---site-src-pages-404-js-6-bb-277",
+    "__context": {
+      "plugin": "plugin---404-e-7-a-d07"
+    },
+    "config": "config---4045-e-9-90e"
+  },
+  "/docs-ccf": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---docsa-0-f-0a0"
     }
   },
   "/docs-83f": {
-    "__comp": "a7bd4aaa",
-    "version": "935f2afb"
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "version": "version---docs-935-398"
   },
-  "/docs-393": {
-    "__comp": "a94703ab"
+  "/docs-0bf": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/docs/chat-interface-26f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-chat-interface-715-c6d"
   },
   "/docs/getting-started/-cd1": {
-    "__comp": "17896441",
-    "content": "54c82979"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-getting-started-54-c-251"
   },
   "/docs/getting-started/ros2-490": {
-    "__comp": "17896441",
-    "content": "e1597550"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-getting-started-ros-2-e-15-521"
   },
   "/docs/getting-started/simulation-d23": {
-    "__comp": "17896441",
-    "content": "d7cbad55"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-getting-started-simulationd-7-c-5bc"
   },
   "/docs/intro-aed": {
-    "__comp": "17896441",
-    "content": "0e384e19"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-intro-0-e-3-be1"
   },
   "/docs/modules/module1-ros2/concepts-ee9": {
-    "__comp": "17896441",
-    "content": "0c31bb50"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-modules-module-1-ros-2-concepts-0-c-3-fc6"
   },
   "/docs/modules/module1-ros2/exercises-418": {
-    "__comp": "17896441",
-    "content": "8ded7af3"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-modules-module-1-ros-2-exercises-8-de-23b"
   },
   "/docs/modules/module1-ros2/intro-5a3": {
-    "__comp": "17896441",
-    "content": "98c6fce7"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-modules-module-1-ros-2-intro-98-c-b4a"
   },
   "/docs/modules/module1-ros2/practical-examples-132": {
-    "__comp": "17896441",
-    "content": "30110aab"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-modules-module-1-ros-2-practical-examples-301-af4"
   },
   "/docs/modules/module2-simulation/exercises-586": {
-    "__comp": "17896441",
-    "content": "4eec1850"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-modules-module-2-simulation-exercises-4-ee-bf4"
   },
   "/docs/modules/module2-simulation/gazebo-3e5": {
-    "__comp": "17896441",
-    "content": "872a0adc"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-modules-module-2-simulation-gazebo-872-f46"
   },
   "/docs/modules/module2-simulation/intro-a9a": {
-    "__comp": "17896441",
-    "content": "e1ad9ffb"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-modules-module-2-simulation-introe-1-a-1ec"
   },
   "/docs/modules/module2-simulation/unity-320": {
-    "__comp": "17896441",
-    "content": "b7a284ca"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-modules-module-2-simulation-unityb-7-a-a37"
   },
   "/docs/modules/module3-nvidia-isaac/exercises-f5b": {
-    "__comp": "17896441",
-    "content": "3a271ddc"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-modules-module-3-nvidia-isaac-exercises-3-a-2-9d6"
   },
   "/docs/modules/module3-nvidia-isaac/intro-da2": {
-    "__comp": "17896441",
-    "content": "7b5ce61b"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-modules-module-3-nvidia-isaac-intro-7-b-5-de7"
   },
   "/docs/modules/module3-nvidia-isaac/perception-fe2": {
-    "__comp": "17896441",
-    "content": "17c7b749"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-modules-module-3-nvidia-isaac-perception-17-c-e5e"
   },
   "/docs/modules/module3-nvidia-isaac/training-e7f": {
-    "__comp": "17896441",
-    "content": "254a50fe"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-modules-module-3-nvidia-isaac-training-254-8c9"
   },
   "/docs/modules/module4-vla/action-9a0": {
-    "__comp": "17896441",
-    "content": "a7cb8268"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-modules-module-4-vla-actiona-7-c-05e"
   },
   "/docs/modules/module4-vla/exercises-84e": {
-    "__comp": "17896441",
-    "content": "7f9d48cb"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-modules-module-4-vla-exercises-7-f-9-8d4"
   },
   "/docs/modules/module4-vla/intro-bfa": {
-    "__comp": "17896441",
-    "content": "10b8154d"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-modules-module-4-vla-intro-10-b-73e"
   },
   "/docs/modules/module4-vla/language-1d9": {
-    "__comp": "17896441",
-    "content": "1065b674"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-modules-module-4-vla-language-106-386"
   },
   "/docs/modules/module4-vla/vision-62f": {
-    "__comp": "17896441",
-    "content": "bf579833"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-modules-module-4-vla-visionbf-5-ad1"
   },
   "/docs/modules/module5-capstone/exercises-484": {
-    "__comp": "17896441",
-    "content": "4c232603"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-modules-module-5-capstone-exercises-4-c-2-cb7"
   },
   "/docs/modules/module5-capstone/full-integration-4e9": {
-    "__comp": "17896441",
-    "content": "1022e319"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-modules-module-5-capstone-full-integration-102-363"
   },
   "/docs/modules/module5-capstone/humanoid-setup-8d0": {
-    "__comp": "17896441",
-    "content": "de6a32df"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-modules-module-5-capstone-humanoid-setupde-6-a61"
   },
   "/docs/modules/module5-capstone/intro-57b": {
-    "__comp": "17896441",
-    "content": "e512d3d1"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-modules-module-5-capstone-introe-51-64b"
   },
   "/docs/modules/module5-capstone/voice-control-5e0": {
-    "__comp": "17896441",
-    "content": "ae58c5d8"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-modules-module-5-capstone-voice-controlae-5-39a"
   },
   "/docs/reference/citations-4f8": {
-    "__comp": "17896441",
-    "content": "082ca29e"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-reference-citations-082-92b"
   },
   "/docs/reference/glossary-545": {
-    "__comp": "17896441",
-    "content": "846656e5"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-reference-glossary-846-d57"
   },
   "/docs/reference/troubleshooting-336": {
-    "__comp": "17896441",
-    "content": "111eee19"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-reference-troubleshooting-111-5b7"
   },
   "/-c4f": {
-    "__comp": "c4f5d8e4",
+    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
     "__context": {
-      "plugin": "e7a07e33"
+      "plugin": "plugin---404-e-7-a-d07"
     },
-    "config": "5e9f5e1a"
+    "config": "config---4045-e-9-90e"
   }
 }

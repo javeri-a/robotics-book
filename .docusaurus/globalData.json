@@ -11,6 +11,11 @@
           "mainDocId": "getting-started/index",
           "docs": [
             {
+              "id": "chat-interface",
+              "path": "/docs/chat-interface",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "getting-started/index",
               "path": "/docs/getting-started/",
               "sidebar": "tutorialSidebar"

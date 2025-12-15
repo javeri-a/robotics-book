@@ -20,6 +20,37 @@
           "contentPathLocalized": "C:\\Users\\javer\\hackbook\\humanoid-robotics-textbook\\i18n\\en\\docusaurus-plugin-content-docs\\current",
           "docs": [
             {
+              "id": "chat-interface",
+              "title": "Interactive Robotics Assistant",
+              "description": "An interactive chat interface to help you with questions about humanoid robotics and physical AI",
+              "source": "@site/docs/chat-interface.md",
+              "sourceDirName": ".",
+              "slug": "/chat-interface",
+              "permalink": "/docs/chat-interface",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/javeri-a/robotics-book/edit/main/docs/chat-interface.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Interactive Robotics Assistant",
+                "description": "An interactive chat interface to help you with questions about humanoid robotics and physical AI",
+                "keywords": [
+                  "robotics",
+                  "AI",
+                  "humanoid",
+                  "chat",
+                  "assistant",
+                  "textbook"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Environment Configuration for Physical AI and Humanoid Robotics Textbook",
+                "permalink": "/docs/reference/troubleshooting"
+              }
+            },
+            {
               "id": "getting-started/index",
               "title": "Getting Started",
               "description": "This guide will help you set up your learning environment for the Physical AI and Humanoid Robotics textbook.",
@@ -833,6 +864,10 @@
               "previous": {
                 "title": "Glossary",
                 "permalink": "/docs/reference/glossary"
+              },
+              "next": {
+                "title": "Interactive Robotics Assistant",
+                "permalink": "/docs/chat-interface"
               }
             }
           ],
@@ -1006,6 +1041,10 @@
                   {
                     "type": "doc",
                     "id": "reference/troubleshooting"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "chat-interface"
                   }
                 ],
                 "collapsed": true,

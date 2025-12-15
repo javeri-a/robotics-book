@@ -3,13 +3,48 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
+    path: '/__docusaurus/debug',
+    component: ComponentCreator('/__docusaurus/debug', '5f9'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/config',
+    component: ComponentCreator('/__docusaurus/debug/config', '09d'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/content',
+    component: ComponentCreator('/__docusaurus/debug/content', '318'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/globalData',
+    component: ComponentCreator('/__docusaurus/debug/globalData', '75b'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/metadata',
+    component: ComponentCreator('/__docusaurus/debug/metadata', '65f'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/registry',
+    component: ComponentCreator('/__docusaurus/debug/registry', 'be8'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/routes',
+    component: ComponentCreator('/__docusaurus/debug/routes', '7e0'),
+    exact: true
+  },
+  {
     path: '/404',
     component: ComponentCreator('/404', '973'),
     exact: true
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '3c0'),
+    component: ComponentCreator('/docs', 'ccf'),
     routes: [
       {
         path: '/docs',
@@ -17,8 +52,14 @@ export default [
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '393'),
+            component: ComponentCreator('/docs', '0bf'),
             routes: [
+              {
+                path: '/docs/chat-interface',
+                component: ComponentCreator('/docs/chat-interface', '26f'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
               {
                 path: '/docs/getting-started/',
                 component: ComponentCreator('/docs/getting-started/', 'cd1'),

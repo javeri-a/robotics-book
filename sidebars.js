@@ -70,7 +70,8 @@ const sidebars = {
       items: [
         'reference/citations',
         'reference/glossary',
-        'reference/troubleshooting'
+        'reference/troubleshooting',
+        'chat-interface'
       ],
     }
   ],

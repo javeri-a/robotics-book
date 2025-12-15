@@ -263,6 +263,13 @@
             "href": "/docs/reference/troubleshooting",
             "docId": "reference/troubleshooting",
             "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Interactive Robotics Assistant",
+            "href": "/docs/chat-interface",
+            "docId": "chat-interface",
+            "unlisted": false
           }
         ],
         "collapsed": true,
@@ -271,6 +278,12 @@
     ]
   },
   "docs": {
+    "chat-interface": {
+      "id": "chat-interface",
+      "title": "Interactive Robotics Assistant",
+      "description": "An interactive chat interface to help you with questions about humanoid robotics and physical AI",
+      "sidebar": "tutorialSidebar"
+    },
     "getting-started/index": {
       "id": "getting-started/index",
       "title": "Getting Started",

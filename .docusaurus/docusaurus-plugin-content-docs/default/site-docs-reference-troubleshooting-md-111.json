@@ -16,5 +16,9 @@
   "previous": {
     "title": "Glossary",
     "permalink": "/docs/reference/glossary"
+  },
+  "next": {
+    "title": "Interactive Robotics Assistant",
+    "permalink": "/docs/chat-interface"
   }
 }

@@ -1,0 +1,31 @@
+{
+  "id": "chat-interface",
+  "title": "Interactive Robotics Assistant",
+  "description": "An interactive chat interface to help you with questions about humanoid robotics and physical AI",
+  "source": "@site/docs/chat-interface.md",
+  "sourceDirName": ".",
+  "slug": "/chat-interface",
+  "permalink": "/docs/chat-interface",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/javeri-a/robotics-book/edit/main/docs/chat-interface.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Interactive Robotics Assistant",
+    "description": "An interactive chat interface to help you with questions about humanoid robotics and physical AI",
+    "keywords": [
+      "robotics",
+      "AI",
+      "humanoid",
+      "chat",
+      "assistant",
+      "textbook"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Environment Configuration for Physical AI and Humanoid Robotics Textbook",
+    "permalink": "/docs/reference/troubleshooting"
+  }
+}
